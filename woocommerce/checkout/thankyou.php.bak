@@ -1,0 +1,106 @@
+<?php
+/**
+ * Thankyou page
+ *
+ * @author 		WooThemes
+ * @package 	WooCommerce/Templates
+ * @version     2.2.0
+ */
+
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
+if ( $order ) : ?>
+
+	<?php if ( $order->has_status( 'failed' ) ) : ?>
+
+		<p><?php _e( 'Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction.', 'woocommerce' ); ?></p>
+
+		<p><?php
+			if ( is_user_logged_in() )
+				_e( 'Please attempt your purchase again or go to your account page.', 'woocommerce' );
+			else
+				_e( 'Please attempt your purchase again.', 'woocommerce' );
+		?></p>
+
+		<p>
+			<a href="<?php echo esc_url( $order->get_checkout_payment_url() ); ?>" class="button pay"><?php _e( 'Pay', 'woocommerce' ) ?></a>
+			<?php if ( is_user_logged_in() ) : ?>
+			<a href="<?php echo esc_url( get_permalink( wc_get_page_id( 'myaccount' ) ) ); ?>" class="button pay"><?php _e( 'My Account', 'woocommerce' ); ?></a>
+			<?php endif; ?>
+		</p>
+
+	<?php else : 
+	
+		$orderID=str_replace("#","",$order->get_order_number());
+		$firstshipment="";
+		$Singleorder = new WC_Order( $orderID );
+		//print_r (array_values($Singleorder->get_items())[0]);
+		$productID=array_values($Singleorder->get_items())[0]['item_meta']['_product_id'][0];
+		$subscription=new WC_Subscriptions_Manager;
+		$sub_key= $subscription->get_subscription_key($orderID,$productID);
+		$start_date=($subscription->get_subscription($sub_key)['start_date']);
+		if($_SESSION['process_date']!=""){
+		//echo "<br/>process_date: ".$_SESSION['process_date']."<br/>";
+		
+		//$subscription->update_users_subscriptions( get_current_user_id(), array( $sub_key => array( 'start_date' => '2015-12-29 02:13:25' ) ) );
+		//print_r ($subscription->get_subscription($sub_key));
+		}
+		?>
+		<h2>Thank you!</h2>
+		<p><?php echo apply_filters( 'woocommerce_thankyou_order_received_text', __( 'Your order was successful. You can view the status of your subscription in <a href="'. get_permalink( get_option('woocommerce_myaccount_page_id') ) . '">your account</a>.', 'woocommerce' ), $order ); ?></p>
+	<div class="checkout_detail">
+		<h3>Checkout</h3>
+		<div class="checkout_details">
+		<table class="checkout_details">
+		<tr>
+			<td class="order">
+				<?php _e( 'ORDER NUMBER', 'woocommerce' ); ?>
+			</td>
+			<td class="second_td">
+				<strong><?php echo $order->get_order_number(); ?></strong>
+			</td>
+		</tr>
+		<tr>
+			<td class="date">
+				<?php _e( 'DATE', 'woocommerce' ); ?>
+			</td>
+			<td class="second_td" style="font-size:0.95em;">
+				<strong><?php echo date_i18n( get_option( 'date_format' ), strtotime( $order->order_date ) ); ?></strong>
+			</td>
+		</tr>
+		<tr>
+			<td class="total">
+				<?php _e( 'TOTAL', 'woocommerce' ); ?>
+			</td>
+			<td class="second_td">
+				<strong><?php echo $order->get_formatted_order_total(); ?></strong>
+			</td>
+		</tr>
+		<tr>
+			<?php if ( $order->payment_method_title ) : ?>
+			<td class="method" >
+				<?php _e( 'PAYMENT&nbsp;METHOD', 'woocommerce' ); ?>
+			</td>
+			<td class="second_td">
+				<strong><?php echo str_replace('(Stripe)','',$order->payment_method_title); ?></strong>
+			</td>
+		</tr>
+		</table>
+			<?php endif; ?>
+		</div>
+		<div class="clear"></div>
+	
+	<?php endif; ?>
+	<?php //print_r($order->id);?>
+	<?php do_action( 'woocommerce_thankyou_' . $order->payment_method, $order->id ); ?>
+	
+	
+	<?php do_action( 'woocommerce_thankyou', $order->id ); ?>
+	
+	
+	
+<?php else : ?>
+
+	<p><?php echo apply_filters( 'woocommerce_thankyou_order_received_text', __( 'Thank you. Your order has been received.', 'woocommerce' ), null ); ?></p>
+
+<?php endif; ?>

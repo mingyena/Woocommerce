@@ -1,0 +1,354 @@
+Order ID,Initial Order Date,Billing First Name,Billing  Last Name,Billing Address,Billing City,Billing ZIP Code,Billing State,Email,Shipping First Name,Shipping Last Name,Shipping Street Address ,Shipping City,Shipping  State,Received Discount(coupon code),Initial Order price,Subsequent Order,Order Item #1: Product Name,Order Item #1: Quantity,,Order Item #2: Product Name,Order Item #2: Quantity,Order Item #3: Product Name,Order Item #3: Quantity,Merv Rating,Subscription Interval
+677,07/09/14,randy,akins,2353 chateau rue,pampa,79065,TX,rakins@bl-supply.com,randy,akins,2353 chateau rue,pampa,TX,,14.12,15.28,20 x 25 x 1,1,#REF!,,,,,Better,3
+680,07/09/14,Michael,Moser,13805 Calera Cove,Manor,78653,TX,mike.moser@ieee.org,Michael,Moser,13805 Calera Cove,Manor,TX,thanks,40.57,43.92,12 x 24 x 1,4,,14 x 30 x 1,1,,,Good,0
+681,07/09/14,Lisa,Shelton,31427 Kingston Village Driver,Spring,77386,TX,sheltlf@hotmail.com,Lisa,Shelton,31427 Kingston Village Driver,Spring,TX,,36.48,39.49,20 x 30 x 1,1,,12 x 12 x 1,1,,,Best,0
+688,07/10/14,Doug,Lindsey,2410 Silver Spur Lane,Leander,78641,TX,dlindsey19@gmail.com,Doug,Lindsey,2410 Silver Spur Lane,Leander,TX,thanks,33.35,36.1,20 x 30 x 1,1,,14 x 30 x 1,2,12 x 12 x 1,1,Good,3
+690,07/10/14,Jason,Bromberg,400 Lexington Lane,Richardson,75080,TX,brombergj1@tx.rr.com,Jason,Bromberg,400 Lexington Lane,Richardson,TX,,14.12,15.28,16 x 25 x 1,1,,,,,,Better,1
+728,07/11/14,craig,tapley,12811 Terrace Pass,San Antonio,78259,TX,craig.tapley@gmail.com,craig,tapley,12811 Terrace Pass,San Antonio,TX,thanks,32.39,35.06,12 x 12 x 1,2,,20 x 25 x 1,1,,,Better,3
+732,07/14/14,Theresa,Bird,16507 Forest Bend Ave,Friendswood,77546,TX,theresa.bird@sbcglobal.net,Theresa,Bird,16507 Forest Bend Ave,Friendswood,TX,thanks,12.11,13.11,20 x 36 x 1,1,,,,,,Better,0
+733,07/15/14,Joshua,Brawley,5100 Mountain View Dr.,Krum,76249,TX,jbrawley83@gmail.com,Joshua,Brawley,5100 Mountain View Dr.,Krum,TX,thanks,26.91,29.13,20 x 20 x 1,1,,20 x 30 x 1,1,,,Best,3
+738,07/17/14,Cristian,Prundeanu,927 Indian Run Dr,Pflugerville,78660,TX,cprundeanu@athos.ro,Cristian,Prundeanu,927 Indian Run Dr,Pflugerville,TX,thanks,29.78,32.24,20 x 36 x 1,1,,16 x 25 x 1,1,,,Best,0
+740,07/17/14,Steven,Titch,815 Spring Mist Court,Sugar Land,77479,TX,titch@experteditorial.net,Steven,Titch,815 Spring Mist Court,Sugar Land,TX,driving,43.83,47.45,25 x 32 x 1,1,,20 x 30 x 1,1,,,Best,3
+746,07/29/14,Emily,Dyson,933 Heston Circle,Robinson,76706,TX,edyson@hot.rr.com,Emily,Dyson,933 Heston Circle,Robinson,TX,thanks,13.08,14.16,16 x 20 x 1,1,,,,,,Best,3
+749,08/01/14,Gary,Whittle,12102 Meadow Lake Dr,Houston,77077,TX,grwhittle@gmail.com,Gary,Whittle,12102 Meadow Lake Dr,Houston,TX,,28.28,30.61,20 x 25 x 1,1,,20 x 30 x 1,1,,,Better,2
+751,08/04/14,Rachel,Morrow,14574 Ranch Creek Lane,Chino Hills,91709,CA,r24evr@gmail.com,Rachel,Morrow,14574 Ranch Creek Lane,Chino Hills,CA,,35.04,37.93,12 x 24 x 1,1,,14 x 30 x 1,1,,,Best,0
+753,08/05/14,Kurt,Sinclair,235 Franklin Way,Croydon,55123,TX,kurt@conversionfactory.com,Kurt,Sinclair,235 Franklin Way,Croydon,TX,,10.95,11.85,10 x 10 x 1,1,,,,,,Good,0
+763,08/07/14,Alan,Lane,5425 Tortuga Trl,Austin,78731,TX,alanlane2@gmail.com,Alan,Lane,5425 Tortuga Trl,Austin,TX,,28.4,30.74,16 x 25 x 1,1,,14 x 30 x 1,1,,,Better,2
+768,08/12/14,David,Bruce,11 Greenway Plaza Suite 3175,Houston,77046,TX,dlittle18@yahoo.com,David,Bruce,11 Greenway Plaza Suite 3175,Houston,TX,,11.85,11.85,10 x 10 x 1,1,,,,,,Good,0
+774,08/19/14,Jon,Beverly,2610 Montview Dr.,Pearland,77584,TX,jbeverly2@att.net,Jon,Beverly,2610 Montview Dr.,Pearland,TX,,55.32,59.88,12 x 24 x 1,2,,20 x 25 x 1,2,,,Better,2
+776,08/22/14,roy,horlock,6261 Doliver Drive,houston,77057,TX,roy@horlockcompany.com,roy,horlock,6261 Doliver Drive,houston,TX,,28.38,30.72,20 x 30 x 1,1,,25 x 32 x 1,1,,,Good,2
+781,08/29/14,Paul,Johnson,517 Savanah Ct,Rockwall,75087,TX,pjohns67@sbcglobal.net,Paul,Johnson,517 Savanah Ct,Rockwall,TX,,51.71,55.98,12 x 24 x 1,1,,20 x 30 x 1,1,24 x 30 x 1,1,Better,0
+784,09/08/14,BELLA,VASQUEZ,855 FARMDALE DR.,TUSCALOOSA,35405,AL,rbvasquez128@gmail.com,BELLA,VASQUEZ,855 FARMDALE DR.,TUSCALOOSA,AL,,68.09,73.71,25 x 32 x 1,1,,12 x 30 x 1,1,20 x 20 x 1,1,Best,3
+786,09/08/14,Justin,Trojacek,716 Willow Walk Dr,Pflugerville,78660,TX,jtrojacek@gmail.com,Justin,Trojacek,716 Willow Walk Dr,Pflugerville,TX,,13.15,14.23,20 x 20 x 1,1,,,,,,Good,3
+799,09/09/14,Kristi,Wheeler,13210 Water Oak Park Circle,Cypress,77429,TX,kristi.m.wheeler@aexp.com,Kristi,Wheeler,13210 Water Oak Park Circle,Cypress,TX,driving,31.43,34.02,12 x 12 x 1,1,,20 x 20 x 1,1,20 x 30 x 1,1,Good,2
+802,09/10/14,charles,bruce,4210 mcknight rd,texarkana,75503,TX,cbperio@cableone.net,charles,bruce,4210 mcknight rd,texarkana,TX,,49.05,53.29,24 x 24 x 1,3,,,,,,Better,3
+819,10/04/14,Chris,Mills,9944 Walnut St Apt 1042,Dallas,75243,TX,seph187@gmail.com,Chris,Mills,9944 Walnut St Apt 1042,Dallas,TX,,16.38,17.73,12 x 24 x 1,1,,,,,,Best,3
+826,10/13/14,shelley,tarkington,1725 Ronson road,houston,77055,TX,sgtarkington@ebenconcepts.com,shelley,tarkington,1725 Ronson road,houston,TX,,43.08,46.63,16 x 25 x 1,1,,20 x 25 x 1,1,12 x 24 x 1,1,Better,0
+945,11/25/14,Chris,Mills,12660 Jupiter Road 411,Dallas,75238,TX,seph1871@gmail.com,Chris,Mills,12660 Jupiter Road 411,Dallas,TX,,16.38,17.73,16 x 25 x 1,1,,,,,,Best,0
+2584,01/08/15,shelley,tarkington,1725 Ronson road,houston,77055,TX,sgtarkington@ebenconcepts.com,shelley,tarkington,1725 Ronson road,houston,TX,,43.08,46.63,16X25X1 ,1,,20X25X1  ,1,12X24X1    ,1,Better,3
+2589,01/08/15,Kristi,Wheeler,13210 Water Oak Park Circle,Cypress,77429,TX,kristi.m.wheeler@aexp.com,Kristi,Wheeler,13210 Water Oak Park Circle,Cypress,TX,,38.65,41.84,12X12X1,1,,20X20X1 ,1,20X30X1 ,1,Good,5
+2594,01/08/15,charles,bruce,4210 mcknight rd,texarkana,75503,TX,cbperio@cableone.net,charles,bruce,4210 mcknight rd,texarkana,TX,,49.23,53.29,24X24X1,3,,,,,,Better,2
+2610,01/08/15,Justin,Trojacek,716 Willow Walk Dr,Pflugerville,78660,TX,jtrojacek@gmail.com,Justin,Trojacek,716 Willow Walk Dr,Pflugerville,TX,,13.15,14.23,20X20X1 ,1,,,,,,Good,1
+2613,01/08/15,BELLA,VASQUEZ,855 FARMDALE DR.,TUSCALOOSA,35405,AL,rbvasquez128@gmail.com,BELLA,VASQUEZ,855 FARMDALE DR.,TUSCALOOSA,AL,,68.09,73.71,25X32X1  ,1,,12X30X1     ,1,20X20X1 ,1,Best,1
+2623,01/08/15,Paul,Johnson,517 Savanah Ct,Rockwall,75087,TX,pjohns67@sbcglobal.net,Paul,Johnson,517 Savanah Ct,Rockwall,TX,,51.71,55.98,12X24X1    ,1,,20X30X1 ,1,24X30X1 ,1,Better,3
+2630,01/08/15,Jon,Beverly,2610 Montview Dr.,Pearland,77584,TX,morganb@defensivedriving.com,Jon,Beverly,2610 Montview Dr.,Pearland,TX,,58.32,63.13,12X24X1    ,2,,20X25X1  ,2,,,Better,1
+2650,01/12/15,Steven,Titch,815 Spring Mist Court,Sugar Land,77479,TX,titch@experteditorial.net,Steven,Titch,815 Spring Mist Court,Sugar Land,TX,,53.82,58.26,25X32X1  ,1,,20X30X1 ,1,,,Best,0
+2655,01/12/15,Joshua,Brawley,5100 Mountain View Dr.,Krum,76249,TX,jbrawley83@gmail.com,Joshua,Brawley,5100 Mountain View Dr.,Krum,TX,,39.64,42.91,20X20X1 ,1,,20X30X1 ,1,,,Best,0
+2661,01/12/15,craig,tapley,12811 Terrace Pass,San Antonio,78259,TX,craig.tapley@gmail.com.,craig,tapley,12811 Terrace Pass,San Antonio,TX,,33.58,37.09,12X12X1,2,,20X25X1  ,1,,,Better,3
+2696,01/17/15,roy,horlock,6261 Doliver Drive,houston,77057,TX,roy@horlockcompany.com,roy,horlock,6261 Doliver Drive,houston,TX,,33.33,36.08,20X30X1 ,1,,25X32X1  ,1,,,Good,2
+2717,01/25/15,craig,tapley,12811 Terrace Pass,San Antonio,78259,TX,craig.tapley@gmail.com,craig,tapley,12811 Terrace Pass,San Antonio,TX,,14.01,15.41,12X36X1    ,1,,,,,,Better,0
+2755,01/25/15,Amy,George,3334 Kinkaid Dr,Dallas,75220,TX,amylgeorge@hotmail.com,Amy,George,3334 Kinkaid Dr,Dallas,TX,,32.76,35.46,14X20X1,2,,,,,,Best,10
+2757,01/25/15,Robin,Skoglund,428 Cloverleaf Ave #4,San Antonio,78209,TX,robinlskoglund@gmail.com,Robin,Skoglund,428 Cloverleaf Ave #4,San Antonio,TX,,21.29,23.05,16X16X1,1,,,,,,Best,0
+2766,01/30/15,James,Mendoza,1948 Waterford way,Seabrook,77586,TX,jamesmendoza321@yahoo.com,James,Mendoza,1948 Waterford way,Seabrook,TX,,21.14,22.88,Any dimensions is greater than 30 and depth is a whole number ,1,,,,,,Good,6
+2803,01/30/15,Kathy,Choat,2705 Harborside Drive,Granbury,76048,TX,kathychoat@yahoo.com,Kathy,Choat,2705 Harborside Drive,Granbury,TX,,139.48,150.99,All dimensions is less than 30 and depth is a whole number ,1,,,,,,Good,0
+2828,01/31/15,Andrew,Bell,4 Hazel Ct,Wichita Falls,76308,TX,andy.c.bell@gmail.com,Andrew,Bell,4 Hazel Ct,Wichita Falls,TX,,31.96,34.6,14X25X2  ,2,,,,,,Good,5
+2859,02/02/15,Tara,Williams,11 Greenway Plaza Suite 3150,Houston,77046,TX,tarawilliams@defensivedriving.com,Tara,Williams,11 Greenway Plaza Suite 3150,Houston,TX,,16.38,17.73,14X20X1,1,,,,,,Best,0
+2868,02/02/15,Sonya,barfield,170 Ashley 188 road,hamburg,71645,AR,dalma3604@yahoo.com,Sonya,barfield,170 Ashley 188 road,hamburg,AR,,21.59,23.37,25X25X1  ,1,,,,,,Best,6
+2870,02/02/15,Charles,Mayberry,1113 Sandy Ridge Cir,Schertz,78154,TX,dr.charles.mayberry@outlook.com,Charles,Mayberry,1113 Sandy Ridge Cir,Schertz,TX,,16.04,17.36,20X30X1 ,1,,,,,,Better,3
+2878,02/04/15,karen,little,1511 cypress lane,kingwood,77339,TX,kml573@yahoo.com,karen,Anne,1511 cypress lane,kingwood,TX,,29.96,32.43,16X20X1 ,1,,20X30X1 ,1,,,Better,4
+2882,02/04/15,karen,little,1511 cypress lane,kingwood,77339,TX,kml573@yahoo.com,karen,Anne,1511 cypress lane,kingwood,TX,,29.77,32.23,20X25X4,1,,,,,,Best,0
+2914,02/04/15,Alex,Coleman,332 Royal Falcon,Del Rio,78840,TX,shoogy.ohmai@gmail.com,Alex,Coleman,332 Royal Falcon,Del Rio,TX,,16.74,18.12,14X24X1,1,,,,,,Best,3
+2919,02/05/15,Jenny,Ferguson,9014 Six Rovers Lane,Missouri City,77459,TX,jimjenferg@yahoo.comCR,Jenny,Ferguson,9014 Six Rovers Lane,Missouri City,TX,,8.23,15.16,25X32X1  ,6,,,,,,Good,4
+2927,02/05/15,Jenny,Ferguson,9014 Six Rovers Lane,Missouri City,77459,TX,JimJenferg@yahoo.comcr2,Jenny,Ferguson,9014 Six Rovers Lane,Missouri City,TX,,77.07,84,25X32X1  ,6,,,,,,Good,4
+2931,02/05/15,MIRANDA,RAMIREZ,1916 N. 45TH ST.,MCALLEN,78501,TX,mira2884@gmail.com,MIRANDA,RAMIREZ,1916 N. 45TH ST.,MCALLEN,TX,,24.92,26.98,12X36X1    ,2,,,,,,Better,3
+2953,02/07/15,Rachel,Morrow,6678 French Trotter Dr,Eastvale,92880,CA,r24evr@gmail.com,Rachel,Morrow,6678 French Trotter Dr,Eastvale,CA,,44.79,48.49,20X25X1  ,2,,20X30X1 ,1,,,Best,0
+2957,02/07/15,Laura,Hamilton,6004 The Resort Blvd,Ft Worth,76179,TX,lhamilton124@att.net,Laura,Hamilton,6004 The Resort Blvd,Ft Worth,TX,,18.91,20.47,20X20X4 ,1,,,,,,Good,0
+2961,02/08/15,Troy,Patrick,13711 Cutler Springs Ct,Pearland,77584,TX,tpatrick77584@gmail.com,Troy,Patrick,13711 Cutler Springs Ct,Pearland,TX,,14.99,16.23,20X30X1 ,1,,,,,,Best,3
+2964,02/09/15,Richard,Klessig,3524 Amherst Ave,Dallas,75225,TX,rklessig@yahoo.com,Richard,Klessig,3524 Amherst Ave,Dallas,TX,,59.54,64.45,20X25X4,2,,,,,,Best,3
+2966,02/10/15,James,Hash,190 Branding Iron Cir,Las Cruces,88005,NM,jimh722@gmail.com,James,Hash,190 Branding Iron Cir,Las Cruces,NM,,23.06,24.96,All dimensions is less than 30 and depth is a whole number ,1,,,,,,Best,1
+2968,02/10/15,Bryan,Steptoe,4127 Hollow Oak Dr,Dallas,75287,TX,bryansteptoe@yahoo.com,Bryan,Steptoe,4127 Hollow Oak Dr,Dallas,TX,,15.14,16.39,All dimensions is less than 30 and depth is a whole number ,1,,,,,,Good,3
+2971,02/11/15,Natalie,Hughes,8414 Woodland Knoll Lane,Cypress,77433,TX,natalie_hughes06@hotmail.com,Natalie,Hughes,8414 Woodland Knoll Lane,Cypress,TX,,59.96,64.91,20X30X1 ,4,,,,,,Best,10
+2973,02/12/15,Bryan,Senker,3301 North 23rd Street,McAllen,78501,TX,bsenker@me.com,Bryan,Senker,332 Jay Ave,McAllen,TX,,23.06,24.96,All dimensions is less than 30 and depth is a whole number ,1,,,,,,Best,3
+2975,02/13/15,catherine,boyle,9706 birsay,spring,77379,TX,cathyboyle8@gmail.com,catherine,boyle,9706 birsay,spring,TX,,31.1,33.67,All dimensions is less than 30 and depth is not a whole number ,1,,,,,,Better,6
+2977,02/16/15,DONNA,HOPPER,24245 Wilderness Oak #3105,San Antonio,78258,TX,donnahopper@live.com,DONNA,HOPPER,24245 Wilderness Oak #3105,San Antonio,TX,,35.49,38.42,12X24X1    ,3,,,,,,Best,3
+2980,02/17/15,Dan,Rodriguez,715 Hawk Ln,Coppell,75019,TX,danandkel@gmail.com,Dan,Rodriguez,715 Hawk Ln,Coppell,TX,driving1,25.32,27.41,20X25X1  ,2,,,,,,Best,5
+2982,02/18/15,Carl,Grossman,20307 Towering Cypress DR,Cypress,77433,TX,carlhgrossman@gmail.com,Carl,Grossman,20307 Towering Cypress DR,Cypress,TX,,20.37,22.05,16X25X4  ,1,,,,,,Better,2
+2990,02/18/15,Dawn,Stallworth,6026 Blossom Bend,San Antonio,78218,TX,karanzza47@yahoo.com,Dawn,Stallworth,6026 Blossom Bend,San Antonio,TX,,23.06,24.96,All dimensions is less than 30 and depth is a whole number ,1,,,,,,Best,1
+2999,02/18/15,Ken,Rowland,PO Box 848 100 East Commerce,Crowell,79227,TX,krowland@crowellstatebank.com,Ken,Rowland,PO Box 848 100 East Commerce,Crowell,TX,,75.7,81.95,14X20X1,10,,,,,,Good,1
+3007,02/24/15,James,Lanter,6310 93rd Street,Lubbock,79424,TX,jjlanter@gmail.com,James,Lanter,6310 93rd Street,Lubbock,TX,,78.92,85.43,10X10X1,2,,14X24X1,4,,,Better,3
+3011,02/24/15,Ed,Nepveux,3022 Grand Mesa Pass,Missouri City,77459,TX,enepveux@comcast.net,Ed,Nepveux,3022 Grand Mesa Pass,Missouri City,TX,,30.28,32.78,All dimensions is less than 30 and depth is a whole number ,2,,,,,,Good,5
+3016,02/28/15,Todd,Phillips,6 Cheshire Court,Heath,75032,TX,toddhphillips@gmail.com,Todd,Phillips,6 Cheshire Court,Heath,TX,,65.76,71.19,16X25X4  ,1,,20X25X1  ,2,20X25X4,1,Better,3
+3024,03/04/15,Christie,Kaminski,21410 Slippery Creek Ln,Spring,77388,TX,clkmnsk@sbcglobal.net,Christie,Kaminski,21410 Slippery Creek Ln,Spring,TX,driving1,12.66,13.7,20X25X1  ,1,,,,,,Best,3
+3046,03/04/15,nicholas,Delgado,1811 Gaddis,san antonio,78224,TX,sotxmicro@yahoo.com,nicholas,Delgado,1811 Gaddis,san antonio,TX,enjoy10,22.47,24.32,18X18X1   ,3,,,,,,Good,4
+3048,03/04/15,Rama Suresh,Devarakonda,15127 Thatcher Dr,Austin,78717,TX,sureshdvr@gmail.com,Rama Suresh,Devarakonda,15127 Thatcher Dr,Austin,TX,enjoy10|driving1,25.48,27.58,12X30X1     ,2,,14X30X1,2,,,Good,3
+3052,03/05/15,Lenn,Sellers,12515 Overcup Drive,Houston,77024,TX,genesellers@mac.com,Lenn,Sellers,12515 Overcup Drive,Houston,TX,enjoy10,56.57,61.24,16X24X1  ,1,,All dimensions is less than 30 and depth is a whole number ,2,,,Best,0
+3062,03/05/15,Angie,Douglas,4431 Kilbourne Rd,Columbia,29206,SC,angiep777@yahoo.com,Angie,Douglas,4431 Kilbourne Rd,Columbia,SC,enjoy10,32.01,34.65,24X24X1,3,,,,,,Better,0
+3069,03/05/15,Michael,Brown,3702 Rose Circle,Snyder,,TX,capbrown50@gmail.com,Michael,Brown,3702 Rose Circle,Snyder,TX,enjoy10,6.17,8,20X25X1  ,3,,,,,,Good,9
+3088,03/15/15,Ruben,Flores,5813 Crestgrove Dr.,Corpus Christi,78415,TX,ruben.flores2@yahoo.com,Ruben,Flores,5813 Crestgrove Dr.,Corpus Christi,TX,driving1,24.28,26.28,14X24X1,2,,,,,,Better,6
+3167,03/17/15,Alicia,Smith,1100 Arlena Dr,Arlington,76012,TX,asmith-5@sbcglobal.net,Alicia,Smith,1100 Arlena Dr,Arlington,TX,enjoy10,21.3,23.06,16X25X1 ,2,,,,,,Best,3
+3173,03/25/15,Robin,Hughes,202 Virgie St.,Longview,75605,TX,rmhughes28@yahoo.com,Robin,Hughes,202 Virgie St.,Longview,TX,bday2015,10.39,11.25,20X25X2  ,1,,,,,,Better,0
+3208,03/25/15,Delaney,Little,"11 Greenway Plaza, Suite 3175",Houston,77046,TX,dlittle@globalh2oinvestments.com,Delaney,Little,"11 Greenway Plaza, Suite 3175",Houston,TX,morethan3items,32.8,35.51,10X24X1,1,,12X20X1,1,14X25X1,1,Good,0
+3209,03/25/15,Delaney,Test,"11 Greenway Plaza, Suite 3175",Houston,77046,TX,dlittle18@yahoo.com,Delaney,Test,"11 Greenway Plaza, Suite 3175",Houston,TX,morethan3items,39.38,42.63,08X23X1 ,2,,10X10X1,2,,,Good,0
+3214,03/26/15,Delaney,Test,"11 Greenway Plaza, Suite 3175",Houston,77046,TX,dlittle18@yahoo.com,Delaney,Test,"11 Greenway Plaza, Suite 3175",Houston,TX,morethan3items,21.47,23.24,10X30X1,1,,12X20X1,1,14X30X1,1,Good,3
+3225,03/26/15,James,Kaplan,953 FOUNTAIN DR NONE,COPPELL,75019,TX,jamieakaplan@gmail.com,James,Kaplan,953 FOUNTAIN DR NONE,COPPELL,TX,,15.75,17.05,25X25X2   ,1,,,,,,Better,3
+3238,03/28/15,Charles,Bruce,6 Ladera dr,Texarkana,75503,TX,cbperio@cableone.net,Charles,Bruce,6 Ladera dr,Texarkana,TX,morethan3items,88.99,96.33,12X12X1,1,,14X14X1,1,20X20X1 ,1,Better,0
+3254,03/28/15,Erin,Finney,4825 Dunn Rd,Lakeland,33812,FL,ebf8911@gmail.com,Erin,Finney,4825 Dunn Rd,Lakeland,FL,morethan3items,34.72,37.58,20X20X1 ,1,,22X22X1   ,2,,,Best,10
+3260,03/28/15,kim,laird,po box 216,deberry,75639,TX,superkimi@aol.com,kim,laird,5207 old mooringsport rd,Shreveport,LA,morethan3items,37.84,40.96,12X24X1    ,4,,,,,,Best,0
+3262,03/28/15,Micah,Wheat,55 College St.,Asheville,28801,NC,micahwheat@gmail.com,Micah,Wheat,55 College St.,Asheville,NC,morethan3items,85.92,93.01,20X22X1,6,,,,,,Best,0
+3263,03/29/15,steve,bucy,26 wendover lane,swannanoa,28778,NC,ashlen1@bellsouth.net,steve,bucy,26 wendover lane,swannanoa,NC,,0,0,20X20X1 ,1,,,,,,Better,0
+3266,03/29/15,Linda,Pratt,1804 Narcille,Baytown,77520,TX,lorisbunge@yahoo.com,Linda,Pratt,1804 Narcille,Baytown,TX,morethan3items,112,121.24,25X32X1  ,10,,,,,,Good,0
+3268,03/29/15,kevin,kist,PO box 73,college corner,45003,OH,klkist@aol.com,kevin,kist,319 ralph williams,prosperity,SC,morethan3items,107.12,115.96,18X20X1   ,8,,,,,,Best,3
+3269,03/29/15,Kamal,Bajwa,17807 Misty grove dr,Dallas,75287,TX,kamalbajwa2000@hotmail.com,Kamal,Bajwa,17807 Misty grove dr,Dallas,TX,morethan3items,45.84,49.62,All dimensions is less than 30 and depth is a whole number ,3,,,,,,Better,6
+3270,03/29/15,Bjarne,Haug,7820 Woodchase 1134,San Antonio,78240,TX,haugjohan@gmail.com,Bjarne,Haug,7820 Woodchase 1134,San Antonio,TX,,11.83,12.81,12X20X1,1,,,,,,Best,3
+3271,03/30/15,David,Moynehan,3685 Woodlake Dr,Bonita Springs,34134,FL,dmoynehan@gmail.com,David,Moynehan,3685 Woodlake Dr,Bonita Springs,FL,morethan3items,45.84,49.62,All dimensions is less than 30 and depth is a whole number ,3,,,,,,Better,4
+3273,03/30/15,Jan,Rothhammer,1818 s lakeshore #5,Austin,78741,TX,ongpata@yahoo.com,Jan,Rothhammer,1818 s lakeshore #5,Austin,TX,,8.11,8.78,12X30X1     ,1,,,,,,Good,4
+3275,03/30/15,Peter,Thompson,307 Fall River Court,Houston,,TX,pkt77024@comcast.net,Peter,Thompson,307 Fall River Court,Houston,TX,morethan3items,79.76,86.34,12X36X1    ,8,,,,,,Better,1
+3277,03/31/15,Daniel,Darby,1615 Wrenwood Lakes,Houston,77043,TX,daniel_darby_2000@yahoo.com,Daniel,Darby,1615 Wrenwood Lakes,Houston,TX,,32.83,35.54,20X25X4,1,,20X30X1 ,1,,,Best,4
+3281,03/31/15,Christopher,Beene,98 Abundance Lane,McAlester,74501,OK,chrisbeene@hotmail.com,Christopher,Beene,98 Abundance Lane,McAlester,OK,,18.5,20.03,20X36X1  ,1,,,,,,Best,0
+3283,03/31/15,Dave,Hall,13703 Sandpebble Chase,Houston,77077,TX,djehall@swbell.net,Dave,Hall,13703 Sandpebble Chase,Houston,TX,morethan3items,64.61,67.87,20X25X1  ,2,,20X25X4,2,,,Better,0
+3308,04/01/15,Perry,Bell,4101 Coventry Court,Bryan,77802,TX,perrybell1@gmail.com,Perry,Bell,4101 Coventry Court,Bryan,TX,,25.25,27.33,10X30X1,1,,14X30X1,1,,,Better,3
+3312,04/01/15,Ana,Hess,306 W Daffodil Ave,McAllen,78501,TX,ardhess@gmail.com,Ana,Hess,306 W Daffodil Ave,McAllen,TX,morethan3items,45,48.71,16X20X1 ,6,,,,,,Better,0
+3313,04/02/15,Jose,Martinez,Po BOX 2885,Eagle Pass,78853,TX,eaglepasstexas@att.net,Jose,Martinez,Po BOX 2885,Eagle Pass,TX,morethan3items,45.84,49.62,All dimensions is less than 30 and depth is a whole number ,3,,,,,,Better,2
+3316,04/02/15,Teresa,Bedell,5522 Queensborough Circle,Corpus Christi,78413,TX,tblrlbhb@gmail.com,Teresa,Bedell,5522 Queensborough Circle,Corpus Christi,TX,,29.06,31.46,Any dimensions is greater than 30 and depth is a whole number ,1,,,,,,Best,0
+3317,04/03/15,Anthony,McBrayer,4151 Cross Timbers Rd. Suite 130,Flower Mound,75022,TX,amcbrayer@farmersagent.com,Anthony,McBrayer,4151 Cross Timbers Rd. Suite 130,Flower Mound,TX,morethan3items,36.56,39.58,16X16X2  ,4,,,,,,Good,3
+3321,04/03/15,Julie,Pischke,527 Fleming St.,Key West,33040,FL,islandneedlework@bellsouth.net,Julie,Pischke,527 Fleming St.,Key West,FL,morethan3items,38.94,42.15,12X30X1     ,6,,,,,,Good,0
+3324,04/03/15,Peter,Strelko,8317 Southgate Dr,N Richland Hills,76182,TX,strelko3@yahoo.com,Peter,Strelko,8317 Southgate Dr,N Richland Hills,TX,morethan3items,34.8,37.67,20X25X4,3,,,,,,Better,3
+3326,04/04/15,Robert,Jones,1157 Rosier Road,Waynesboro,30830,GA,robjonesga@yahoo.com,Robert,Jones,3201 Melba Drive,Hephzibah,GA,morethan3items,53.56,57.98,16X16X1,4,,,,,,Best,0
+3336,04/04/15,Patrick,Turner,253 jeanette Barrett ind blvd,Wetumpka,36092,AL,gotgrout@elmore.rr.com,Brent,Turner,165 Woodridge dr,Wetumpka,AL,morethan3items,124.5,134.77,18X24X1,10,,,,,,Best,6
+3338,04/04/15,Michael,Brown,25295 SAUSALITO LN,PORTER,77365,TX,mlbrown46@yahoo.com,Michael,Brown,25295 SAUSALITO LN,PORTER,TX,morethan3items,33.59,36.36,20X24X2    ,1,,20X25X4,2,,,Better,3
+3342,04/05/15,Martin,Ferguson,4103 Warm Winds,San Antonio,78253,TX,martinferguson182@yahoo.com,Martin,Ferguson,4103 Warm Winds,San Antonio,TX,morethan3items,31.8,34.42,16X30X1  ,3,,,,,,Better,3
+3344,04/05/15,Richard,Frank,1700 N.E.Lambright st.,Tampa,33610,FL,rautoac@gmail.com,Richard,Frank,1700 N.E.Lambright st.,Tampa,FL,morethan3items,37.35,40.43,18X24X1,3,,,,,,Best,0
+3345,04/05/15,Haley,Robert,13862 Ponderosa Drive,Denham Springs,70726,LA,haleyerobert@gmail.com,Haley,Robert,13862 Ponderosa Drive,Denham Springs,LA,,23.06,24.96,All dimensions is less than 30 and depth is a whole number ,1,,,,,,Best,1
+3347,04/06/15,Mark,Hench,6865 Kingston Cove,Willis,77318,TX,mbhench@yahoo.com,Mark,Hench,6865 Kingston Cove,Willis,TX,morethan3items,40.77,44.13,25X32X1  ,3,,,,,,Better,0
+3348,04/06/15,David,Burns,98 Dawns Edge Dr,Montgomery,77356,TX,dburns1949@gmail.com,David,Burns,98 Dawns Edge Dr,Montgomery,TX,morethan3items,50.76,54.95,10X24X1,2,,20X30X1 ,2,,,Best,3
+3352,04/06/15,Todd,Maisano,22790 Northline Rd,Taylor,48180,MI,tmaisanopurchases@gmail.com,Shirley,Maisano,22756 Clinton St,Taylor,MI,morethan3items,45,48.71,16X25X1 ,6,,,,,,Better,3
+3354,04/06/15,ROGER,FRANK,3526 NW 29th STREET,GAINESVILLE,32605,FL,refrank@ufl.edu,ROGER,FRANK,3526 NW 29th STREET,GAINESVILLE,FL,,23.66,25.61,16X25X1 ,2,,,,,,Best,3
+3356,04/06/15,Clint,Day,8518 E. County Road 6000 None,Idalou,79329,TX,cmday797@gmail.com,Clint,Day,8518 E. County Road 6000 None,Idalou,TX,,0,0,10X10X1,2,,14X25X1,1,,,Better,3
+3362,04/06/15,Ann,Epperson,7308 John McCain Road,Colleyville,76034,TX,aggiedogdoc@aol.com,Ann,Epperson,7308 John McCain Road,Colleyville,TX,morethan3items,54.88,59.41,20X25X2  ,4,,,,,,Best,0
+3370,04/06/15,Jian,Zhou,2121 El paseo St Apt 1316,Houston,77054,TX,zj1027@yahoo.com,Jian,Zhou,2121 El paseo St Apt 1316,Houston,TX,,10.71,11.59,16X16X1,1,,,,,,Good,3
+3373,04/06/15,Linh,Nguyen,5947 Bankside Dr,Houston,77096,TX,ln7173@gmail.com,Linh,Nguyen,5947 Bankside Dr,Houston,TX,morethan3items,36.78,39.81,20X24X1 ,3,,,,,,Best,3
+3378,04/07/15,Elaine,White,3220 Creighton Ln,Bedford,76021,TX,ecwhite123@yahoo.com,Elaine,White,3220 Creighton Ln,Bedford,TX,,12.99,14.06,20X25X2  ,1,,,,,,Better,3
+3388,04/07/15,Troy,Johnson,418 South Jones St,Hamilton,76531,TX,troy_johnson@candfsteel.com,Troy,Johnson,418 South Jones St,Hamilton,TX,morethan3items,23.58,25.53,12X36X1    ,3,,,,,,Good,1
+3390,04/07/15,Clayton,Gestes,3935 Berkley Dr.,Jackson,39211,MS,claytongestes@gmail.com,Clayton,Gestes,3935 Berkley Dr.,Jackson,MS,,10.99,11.9,18X24X1,1,,,,,,Better,0
+3392,04/07/15,Samuel,Bixby,12530 Park Meadow Dr,Houston,,TX,bixby95@att.net,Samuel,Bixby,12530 Park Meadow Dr,Houston,TX,driving1,30.32,32.82,20X25X4,2,,,,,,Best,0
+3394,04/07/15,keith,Rodriguez,729 Princeton dr,Desoto,75115,TX,krodriguez3@sbcglobal.net,keith,Rodriguez,729 Princeton dr,Desoto,TX,,19.1,20.68,All dimensions is less than 30 and depth is a whole number ,1,,,,,,Better,0
+3396,04/08/15,Adrian,Medina,23306 Timberbrook Dr,Spring,77373,TX,blk97blk@yahoo.com,Adrian,Medina,23306 Timberbrook Dr,Spring,TX,morethan3items,33.3,36.05,16X20X1 ,1,,20X25X1  ,2,,,Best,0
+3400,04/08/15,Travis,Campbell,380 Family Dentistry 2111 E. University Dr. #20,Prosper,75078,TX,drtcampbell@gmail.com,Travis,Campbell,380 Family Dentistry 2111 E. University Dr. #20,Prosper,TX,morethan3items,32.22,34.88,20X20X1 ,3,,,,,,Best,0
+3402,04/08/15,robin,somerville,455 Cielo Springs,Blanco,78606,TX,robin.somerville@gmail.com,robin,somerville,455 Cielo Springs,Blanco,TX,morethan3items,57.08,61.79,20X25X4,4,,,,,,Best,3
+3404,04/09/15,Marvin,Venable,1211 Newsom Mound Road,Springtown,76082,TX,iammdv78@aol.com,Marvin,Venable,1211 Newsom Mound Road,Springtown,TX,morethan3items,24.9,26.95,20X20X1 ,3,,,,,,Better,0
+3420,04/09/15,Dennis,Nickell,8765 Spring Cypress Rd. # L239,Spring,77379,TX,dennis@nickell.me,Dennis,Nickell,16110 Kempton Park Dr.,Spring,TX,,12.46,13.49,12X36X1    ,1,,,,,,Better,0
+3425,04/09/15,Brian,Morgan,609 Indian dr,Kill Devil Hills,27948,NC,morgan3442@gmail.com,Brian,Morgan,1973 Sailfish Pl,Pompano Beach,FL,morethan3items,25.71,27.83,18X30X1,3,,,,,,Good,3
+3426,04/09/15,Cheryl,Keeley,2572 Robert Trent Jones Drive Apt 1210,Orlando,32835,FL,ms_keeley@yahoo.com,Cheryl,Keeley,2572 Robert Trent Jones Drive Apt 1210,Orlando,FL,,16.74,18.12,14X18X1,1,,,,,,Best,0
+3428,04/09/15,Josh,Damron,604 Globe,Idalou,79329,TX,jdamron@idalouisd.net,Josh,Damron,604 Globe,Idalou,TX,morethan3items,25.89,28.03,20X25X2  ,3,,,,,,Good,3
+3429,04/09/15,Stuart,Schuster,2563 Shavano Pk. Dr. NE,Rio Rancho,87144,NM,ssmessages@gmail.com,Stuart,Schuster,2563 Shavano Pk. Dr. NE,Rio Rancho,NM,,13.42,14.53,12X30X1     ,1,,,,,,Best,1
+3432,04/10/15,Robert,Weber,4658 Hilton Head,San Antonio,78217,TX,bobweber1@att.net,Robert,Weber,4658 Hilton Head,San Antonio,TX,,11.83,12.81,12X24X1    ,1,,,,,,Best,4
+3434,04/10/15,Michael,Brady,94 Anthony Street,Austin,78702,TX,ethos01@aol.com,Michael,Brady,94 Anthony Street,Austin,TX,,23.66,25.61,12X12X1,1,,12X24X1    ,1,,,Best,0
+3438,04/13/15,WILLIAM,BLUNK,3115 TOM GREEN ST #201,AUSTIN,78705,TX,dubdowntown@gmail.com,WILLIAM,BLUNK,3115 TOM GREEN ST #201,AUSTIN,TX,,19.74,21.37,12X24X1    ,2,,,,,,Better,3
+3482,04/13/15,Leon,Latham,108 Hamshire Ln,lumberton,77657,TX,leon.latham@yahoo.com,Leon,Latham,108 Hamshire Ln,lumberton,TX,,15.14,16.39,All dimensions is less than 30 and depth is a whole number ,1,,,,,,Good,0
+3497,04/16/15,Bryan,Senker,3301 North 23rd Street,McAllen,78501,TX,bsenker@me.com,Bryan,Senker,332 Jay Ave,McAllen,TX,,46.13,49.93,All dimensions is less than 30 and depth is a whole number ,1,,All dimensions is less than 30 and depth is a whole number ,1,,,Best,0
+3519,04/16/15,RAYMOND,MEDRANO,209 RIVERBEND CROSSING DRIVE,MONTGOMERY,77316,TX,southbelt@sbcglobal.net,RAYMOND,MEDRANO,209 RIVERBEND CROSSING DRIVE,MONTGOMERY,TX,,22.49,24.35,12X12X1,3,,,,,,Better,0
+3536,04/16/15,Mark,Macdonald,1515 S Cap of Tx Hwy,Austin,78746,TX,mmac762@gmail.com,Mark,Macdonald,1515 S Cap of Tx Hwy,Austin,TX,morethan3items,15.98,17.3,12X24X1    ,2,,,,,,Good,0
+3554,04/18/15,Chuck,Murphy,1701 Kennessaw,Savannah,76227,TX,chuck@chuckmurphy.me,Chuck,Murphy,1701 Kennessaw,Savannah,TX,morethan3items,33.44,36.2,12X24X1    ,1,,20X30X1 ,2,,,Best,0
+3561,04/18/15,Gary,Baker,10220 Highland Court,Frisco,75033,TX,gbakerfrisco@gmail.com,Gary,Baker,10220 Highland Court,Frisco,TX,morethan3items,55.76,60.36,20X20X2 ,1,,,,,,Best,6
+3573,04/18/15,Sharon,Stephens,18511 Egret bay blvd #402,houston,77058,TX,sksilver01@gmail.com,Sharon,Stephens,18511 Egret bay blvd #402,houston,TX,morethan3items,29.91,32.38,12X36X1    ,3,,,,,,Better,0
+3575,04/19/15,Leo,Paez,20003 penrice dr,katy,77450,TX,leo.paez@usa.com,Leo,Paez,20003 penrice dr,katy,TX,morethan3items,61.94,67.05,12X36X1    ,3,,16X25X1 ,4,20X30X1 ,2,Good,0
+3576,04/19/15,Jeremy,Just,4518 Tranquility Dr,Garland,75043,TX,justjeremy@verizon.net,Jeremy,Just,4518 Tranquility Dr,Garland,TX,morethan3items,28.38,30.72,16X25X1 ,3,,,,,,Best,0
+3578,04/19/15,Wade,Malone,101 Fraser Cove,Lakeway,78738,TX,wade@malone.tv,Wade,Malone,101 Fraser Cove,Lakeway,TX,morethan3items,57.08,61.79,20X25X4,4,,,,,,Best,3
+3579,04/19/15,Natalie,Jimenez,176 judge smith dr,Marion,72364,AR,nataliej1220@yahoo.com,Natalie,Jimenez,176 judge smith dr,Marion,AR,morethan3items,25.71,27.83,10X24X1,3,,,,,,Good,0
+3580,04/19/15,Mark,Mansfield,537 Beau Chene Drive,Mandeville,70471,LA,mmansfield114@yahoo.com,Mark,Mansfield,537 Beau Chene Drive,Mandeville,LA,,12.09,13.09,24X30X1 ,1,,,,,,Good,0
+3582,04/20/15,VIJAYANT,GUPTA,4504 DALROCK DR,PLANO,75024,TX,vgupta2007@yahoo.com,VIJAYANT,GUPTA,4504 DALROCK DR,PLANO,TX,morethan3items,32.9,35.61,20X20X1 ,2,,20X25X1  ,2,,,Better,0
+3583,04/20/15,Elizabeth,Wilson,8123 Evergreen Court,Villa Rica,30180,GA,asheatl26@gmail.com,Elizabeth,Wilson,8123 Evergreen Court,Villa Rica,GA,morethan3items|2015ny,34.38,37.22,20X22X1,3,,,,,,Best,0
+3584,04/20/15,Lisa,Adeleke,4257 Mill Grove Lane SW,Smyrna,30082,GA,lhooten@kpmg.com,Lisa,Adeleke,4257 Mill Grove Lane SW,Smyrna,GA,,0,0,16X25X1 ,2,,,,,,Best,3
+3587,04/20/15,David,Pollock,7706 WOLVERINE DR,CORPUS CHRISTI,,TX,dpollock81@yahoo.com,David,Pollock,7706 WOLVERINE DR,CORPUS CHRISTI,TX,morethan3items,40.17,43.48,14X24X1,3,,,,,,Best,3
+3588,04/20/15,Hung,Nguyen,4605 Windsor Ridge,Irving,75038,TX,nguyen.q.hung@gmail.com,Hung,Nguyen,4605 Windsor Ridge,Irving,TX,,24,25.98,16X25X4  ,2,,,,,,Good,0
+3589,04/20/15,kashyap,patel,1334 Reedpoint Dr.,Houston,77090,TX,kashyap_007@msn.com,kashyap,patel,1334 Reedpoint Dr.,Houston,TX,,73.1,80.8,All dimensions is less than 30 and depth is not a whole number ,3,,,,,,Better,0
+3590,04/20/15,Jesse,Selber,1206 Bomar Street,Houston,77006,TX,jcselber@mdanderson.org,Jesse,Selber,1206 Bomar Street,Houston,TX,,13.8,14.94,20X25X4,1,,,,,,Good,3
+3592,04/21/15,Jesse,Selber,1206 Bomar Street,Houston,77006,TX,jcselber@mdanderson.org,Jesse,Selber,1206 Bomar Street,Houston,TX,,14.5,15.7,20X25X4,1,,,,,,Better,0
+3597,04/21/15,Mark,Henry,14615 W Red Bayberry Ct,CYPRESS,77433,TX,mhenry22000@yahoo.com,Mark,Henry,14615 W Red Bayberry Ct,CYPRESS,TX,,35.68,38.62,20X25X4,2,,,,,,Best,0
+3599,04/21/15,DERYCK,POCOCK,1002 COUNTY ROAD 175,OVALO,79541,TX,sepia@taylortel.net,DERYCK,POCOCK,1002 COUNTY ROAD 175,OVALO,TX,morethan3items,40.28,43.6,20X20X2 ,4,,,,,,Better,3
+3601,04/21/15,Fernando,Seijas,11570 riverside,El paso,79927,TX,aime.seijas@yahoo.com,Fernando,Seijas,11570 riverside,El paso,TX,morethan3items,86.84,94,All dimensions is less than 30 and depth is not a whole number ,4,,,,,,Good,0
+3602,04/21/15,Patricia,E Soto,4538 Montcliff Bend Ln,Sugar Land,77479,TX,patye06@hotmail.com,Patricia,E Soto,4538 Montcliff Bend Ln,Sugar Land,TX,morethan3items,40.77,44.13,25X32X1  ,3,,,,,,Better,0
+3604,04/21/15,Betty,Thompson,2902 El Paso Ave,Snyder,79549,TX,bd2thompson@suddenlink.net,Betty,Thompson,2902 El Paso Ave,Snyder,TX,morethan3items,34.8,37.67,20X25X4,3,,,,,,Better,0
+3605,04/22/15,Morgan,Taylor,4115 Canady Street,Columbus,31908,GA,wtaylor0409@gmail.com,Morgan,Taylor,4115 Canady Street,Columbus,GA,morethan3items,19.27,20.86,12X24X1    ,2,,12X30X1     ,1,,,Good,0
+3606,04/22/15,Patricio,Mendez,2608 Olmitos Ave,San Juan,78589,TX,isabel3177im@gmail.com,Patricio,Mendez,2608 Olmitos Ave,San Juan,TX,,21.14,22.88,Any dimensions is greater than 30 and depth is a whole number ,1,,,,,,Good,3
+3619,04/22/15,DONNA,RUMSEY,6115 PINE COVE,HOUSTON,77092,TX,susierumsey58@yahoo.com,DONNA,RUMSEY,6115 PINE COVE,HOUSTON,TX,,17.84,19.31,20X25X4,1,,,,,,Best,0
+3620,04/22/15,Christopher,McGivern,5144 Stream Crest Way,Fairview,75069,TX,cmcgivern@mac.com,Christopher,McGivern,5144 Stream Crest Way,Fairview,TX,morethan3items,46.4,50.23,20X25X4,4,,,,,,Better,0
+3623,04/23/15,Stephanie,Peyton,15360 Beulah Road,Dawson Springs,42408,KY,CRpeyton1903@yahoo.com,Stephanie,Peyton,15360 Beulah Road,Dawson Springs,KY,morethan3items,19.18,20.76,12X12X1,2,,20X30X1 ,1,,,Good,0
+3633,04/23/15,Robert,Edwards,P O Box 42,Searcy,72145,AR,robertedwards17@gmail.com,Robert,Edwards,56 Country Club Circle,Searcy,AR,morethan3items,31.2,33.77,12X24X1    ,1,,14X20X1,2,20X20X1 ,1,Better,0
+3639,04/23/15,ADRIAN,Salinas,11004 WATER RD,FRISCO,75035,TX,salbertha@msn.com,ADRIAN,Salinas,11004 WATER RD,FRISCO,TX,,29,31.39,20X25X4,2,,,,,,Better,3
+3641,04/23/15,Rebecca,Feaster,3 Cranberry Bend,The Woodlands,77381,TX,so_fun_73@hotmail.com,Rebecca,Feaster,3 Cranberry Bend,The Woodlands,TX,morethan3items,35.2,38.1,16X25X4  ,1,,20X25X4,2,,,Better,3
+3648,04/23/15,James,Davis,8200 Neely Dr 129,Austin,78759,TX,davisjames2207@gmail.com,James,Davis,268 SAM HOUSTON DR None,BASTROP,TX,morethan3items,60.74,65.75,16X24X1  ,5,,18X24X1,1,,,Better,0
+3659,04/24/15,Lance,Rahn,5736 Carb Drive,Fort Worth,,TX,lrahn@sbcglobal.net,Lance,Rahn,5736 Carb Drive,Fort Worth,TX,,18.5,20.03,16X25X4  ,1,,,,,,Best,10
+3669,04/24/15,Hung,Nguyen,4605 Windsor ridge,Irving,75038,TX,sprung74@gmail.com,Hung,Nguyen,4605 Windsor ridge,Irving,TX,,13.8,14.94,20X25X4,1,,,,,,Good,10
+3670,04/24/15,Doyle,smith,4409 el campo,fort worth,76107,TX,doylesmith@hebisd.edu,Doyle,smith,4409 el campo,fort worth,TX,,35.06,37.95,All dimensions is less than 30 and depth is not a whole number ,1,,,,,,Best,0
+3672,04/24/15,SERKAN,OZEKEN,14331 EASTERN REDBUD LN,HOUSTON,77044,TX,ozeken@msn.com,SERKAN,OZEKEN,14331 EASTERN REDBUD LN,HOUSTON,TX,,35.68,38.62,20X25X4,2,,,,,,Best,0
+3675,04/24/15,Cody,Mulanax,3131 n meyersville rd,Brenham,77833,TX,mulanaxconcrete77@yahoo.com,Cody,Mulanax,3131 n meyersville rd,Brenham,TX,morethan3items,71.25,77.13,12X24X1    ,5,,12X36X1    ,5,,,Good,6
+3679,04/25/15,John,Woods,319 Valley Ldg,New Braunfels,78132,TX,woods-john@gvtc.com,John,Woods,319 Valley Ldg,New Braunfels,TX,morethan3items,64.98,70.34,12X24X1    ,2,,16X20X1 ,2,18X18X1   ,2,Better,10
+3690,04/25/15,Jason,Shepherd,17750 FM 548,Forney,75126,TX,jasonshepherd@qaf.com,Jason,Shepherd,17750 FM 548,Forney,TX,morethan3items,92.8,100.46,20X25X4,8,,,,,,Better,0
+3704,04/26/15,Phillip,Jacks,3803 featherwood trail,Lakeland,33812,FL,craigjacks@icloud.com,Phillip,Jacks,3803 featherwood trail,Lakeland,FL,,23.06,24.96,All dimensions is less than 30 and depth is a whole number ,1,,,,,,Best,0
+3706,04/26/15,Nilufar,rashid,4523 Marquis ave,baytown,77521,TX,zabednilu@yahoo.com,Nilufar,rashid,4523 Marquis ave,baytown,TX,morethan3items,62.94,68.13,12X12X1,3,,12X36X1    ,3,20X30X1 ,3,Good,0
+3707,04/26/15,mark,newman,301 17th streey Unit 2018,sunny isles beach,33160,FL,marknewman13@hotmail.com,mark,newman,301 17th streey Unit 2018,sunny isles beach,FL,morethan3items,23.58,25.53,24X24X1,3,,,,,,Good,0
+3708,04/27/15,Jo,Denton,921 Charleston Court,Bedford,76022,TX,jdenton18@tx.rr.com,Jo,Denton,921 Charleston Court,Bedford,TX,,35.68,38.62,20X25X4,2,,,,,,Best,0
+3710,04/27/15,peter,mcarthur,2800 chatswood drive,trophy club,76262,TX,intendinggood@gmail.om,peter,mcarthur,2800 chatswood drive,trophy club,TX,morethan3items,69.6,75.34,20X25X4,6,,,,,,Better,10
+3712,04/27/15,Louis S,Krane,629 Brent St,Winston Salem,27104,NC,spencerkrane@gmail.com,Louis S,Krane,629 Brent St,Winston Salem,NC,,8.27,8.95,20X24X1 ,1,,,,,,Good,10
+3713,04/27/15,Stacia,Lyman,2526 44th Street South,Saint Petersburg,33711,FL,stacialyman@gmail.com,Stacia,Lyman,2526 44th Street South,Saint Petersburg,FL,morethan3items,40.17,43.48,18X20X1   ,3,,,,,,Best,0
+3720,04/28/15,christina,scherrer,9703 ashwood valley dr,houston,77095,TX,kaitlin816@yahoo.com,christina,scherrer,9703 ashwood valley dr,houston,TX,morethan3items,28.38,30.72,12X12X1,1,,16X25X1 ,2,,,Best,0
+3724,04/28/15,Rajan,Arora,7044 Portobello Dr,Plano,75024,TX,doc2020@swbell.net,Rajan,Arora,7044 Portobello Dr,Plano,TX,,35.68,38.62,20X25X4,2,,,,,,Best,0
+3725,04/29/15,Jamie,smith,1090 Aladdin rd,spring hill,34609,FL,jamiespringhill@aol.com,Jamie,smith,1090 Aladdin rd,spring hill,FL,morethan3items,30.94,33.49,12X12X1,1,,20X20X1 ,2,,,Best,10
+3726,04/29/15,Philip,Braner,4420 Bryn Mawr,Dallas,75225,TX,philipbraner@hotmail.com,Philip,Braner,4420 Bryn Mawr,Dallas,TX,morethan3items,44.4,48.06,20X36X1  ,3,,,,,,Best,10
+3728,04/29/15,Marney,Higgs,23690 FM 3009,Garden Ridge,78266,TX,marney@lowie.com,Marney,Higgs,23690 FM 3009,Garden Ridge,TX,morethan3items,32.33,35,10X24X1,1,,14X24X1,2,20X24X1 ,1,Good,0
+3734,04/30/15,Keith,Arsenault,320 Williamsburg Dr,VAN ALSTYNE,75495,TX,kma1968@gmail.com,Keith,Arsenault,320 Williamsburg Dr,VAN ALSTYNE,TX,morethan3items,34.72,37.58,14X14X1,1,,16X25X1 ,2,20X20X1 ,1,Better,3
+3744,04/30/15,H T,Engelhardt,2802 Lafayette St.,Houston,,TX,htengelhardt@juno.com,H T,Engelhardt,2802 Lafayette St.,Houston,TX,morethan3items|bday2015,38.36,41.52,20X30X1 ,4,,,,,,Best,0
+3754,04/30/15,Jennifer,Netterville,392 Half Moon Ct,Bossier,71111,LA,angel318@aol.com,Jennifer,Netterville,392 Half Moon Ct,Bossier,LA,,11.86,12.84,24X24X1,1,,,,,,Better,0
+3759,05/01/15,Jerry,Ostmeyer,4107 Bowser Ave #206,Dallas,75219,TX,jaostmeyer101@aol.com,Jerry,Ostmeyer,4107 Bowser Ave #206,Dallas,TX,morethan3items,41.28,44.69,14X30X1,3,,,,,,Best,0
+3764,05/01/15,Pat,Flynn,111 Pine Hill Circle,Florence,39073,MS,patflynn08@comcast.net,Pat,Flynn,111 Pine Hill Circle,Florence,MS,morethan3items,42.85,46.39,15X30X1,5,,,,,,Good,0
+3766,05/01/15,MARGIE,WILKES,P O BOX 544,KEENE,76059,TX,margie_wilkes@sbcglobal.net,MARGIE,WILKES,313 S FAIRVIEW ST,KEENE,TX,,69,74.69,All dimensions is less than 30 and depth is not a whole number ,3,,,,,,Better,3
+3769,05/01/15,Carlyle,Newton,511 allatoona hills dr,woodstock,30189,GA,a1atlanta@comcast.net,Carlyle,Newton,511 allatoona hills dr,woodstock,GA,,30.28,32.78,All dimensions is less than 30 and depth is a whole number ,2,,,,,,Good,0
+3777,05/01/15,Erin,Brown,563 South Branch Dr.,Saint John's,32259,FL,emardenfeld@yahoo.com,Erin,Brown,563 South Branch Dr.,Saint John's,FL,,15.14,16.39,14X20X1,2,,,,,,Good,3
+3780,05/01/15,Brian,Whalen,803 E Heights Hollow Ln,Houston,77007,TX,brian.j.whalen@gmail.com,Brian,Whalen,803 E Heights Hollow Ln,Houston,TX,morethan3items,23.7,25.66,12X24X1    ,3,,,,,,Better,0
+3787,05/01/15,Patrick,Walsh,6704 ridgewood dr,North Richland hills,76182,TX,walsh0214@hotmail.com,Patrick,Walsh,6704 ridgewood dr,North Richland hills,TX,morethan3items,43.68,47.28,20X20X4 ,3,,,,,,Best,3
+3788,05/01/15,Alfredo,Flores,1527 Crescent Ln,Duncanville,75137,TX,alfredo.flores.jr@hotmail.com,Alfredo,Flores,1527 Crescent Ln,Duncanville,TX,morethan3items,32.22,34.88,20X20X1 ,3,,,,,,Best,2
+3791,05/02/15,Stephanie,Peyton,15360 Beulah Road,Dawson Springs,42408,KY,cr2peyton1903@yahoo.com,Stephanie,Peyton,15360 Beulah Road,Dawson Springs,KY,morethan3items|driving1|dd28typ|air10|bday2015|driver|test_coupon,0.29,0,14X14X1,2,,20X30X1 ,1,,,Good,0
+3811,05/03/15,Gregory,Kemp,Kemp's Flooring 7079 University Drive NW,Huntsville,35806,AL,teresa@kempsflooring.com,Teresa,Montgomery,Kemp's Flooring 7079 University Drive NW,Huntsville,AL,morethan3items,26.83,29.04,20X25X1,1,,24X24X1,1,,,Better,3
+3822,05/03/15,Carol,Douglas,2710 Hidden Lake Dr,Grapevine,76051,TX,cvdouglas@verizon.net,Carol,Douglas,2710 Hidden Lake Dr,Grapevine,TX,,10.71,11.59,16X16X1,1,,,,,,Good,3
+3824,05/04/15,Myra,Juarez,3200 Rembrandt,Odessa,79765,TX,mlm99ttu@hotmail.com,Myra,Juarez,3200 Rembrandt,Odessa,TX,,31.34,33.93,10X10X1,1,,14X14X1,1,,,Best,0
+3829,05/04/15,Dana,Fontenot,315 Nixon Dr,Fate,75087,TX,danafontenot0919@yahoo.com,Dana,Fontenot,315 Nixon Dr,Fate,TX,morethan3items,84.15,91.09,All dimensions is less than 30 and depth is not a whole number ,3,,,,,,Best,0
+3830,05/04/15,jeff,sheeler,44 Redleaf Circle,Little Rock,72210,AR,jeff.sheeler@att.net,jeff,sheeler,44 Redleaf Circle,Little Rock,AR,morethan3items,18.18,19.68,12X20X1,3,,,,,,Good,0
+3832,05/06/15,Shane,O'Dazier,2626 Westerham Way,Thompsons Station,37179,TN,shane.odazier@yahoo.com,Shane,O'Dazier,2626 Westerham Way,Thompsons Station,TN,morethan3items,32.31,34.98,14X14X1,1,,14X20X1,1,16X20X1 ,1,Best,0
+3838,05/06/15,Caroline,Burger,4705 fieldstone drive,Austin,78735,TX,carolineaburger@gmail.com,Caroline,Burger,4705 fieldstone drive,Austin,TX,,7.57,8.19,14X25X1,1,,,,,,Good,2
+3840,05/09/15,Rodney,Dozier,6085 Cabotage Rd,Johns Creek,30097,GA,rodneyedozier@gmail.com,Rodney,Dozier,6085 Cabotage Rd,Johns Creek,GA,morethan3items,36,38.97,16X25X4  ,3,,,,,,Better,0
+3842,05/11/15,Thressa,Kelley,2900 W Superstition Blvd Lot 58,Apache Junction,85120,AZ,k.thressa@outlook.com,Thressa,Kelley,2900 W Superstition Blvd Lot 58,Apache Junction,AZ,,9.37,10.14,12X20X1,1,,,,,,Better,0
+3844,05/13/15,Derick,Carraway,7033 Seton Hall Dr,Fort Worth,76120,TX,actingboy@gmail.com,Derick,Carraway,7033 Seton Hall Dr,Fort Worth,TX,,0,0,20X30X1 ,1,,,,,,Best,0
+3885,05/15/15,Kevin,Treadwell,1049 E. Fenwick Way,Cedar City,84721,UT,ktreadwell@q.com,Kevin,Treadwell,1049 E. Fenwick Way,Cedar City,UT,morethan3items,35.76,38.71,20X25X1,3,,,,,,Best,0
+3889,05/17/15,Rami,Fakhouri,3411 Chedworth Road,north las vages,89031,NV,rrsb06@live.com,Rami,Fakhouri,3411 Chedworth Road,north las vages,NV,morethan3items,54.88,59.41,20X25X2  ,4,,,,,,Best,3
+3909,05/18/15,kelly,towers,2045 christus way,knoxville,37922,TN,k.towers20@gmail.com,kelly,towers,2045 christus way,knoxville,TN,morethan3items,39.06,42.28,20X24X2    ,2,,20X30X2    ,2,,,Good,6
+3923,05/19/15,Philip,Raines,6269 Hollow Wood Cir,Loveland,45140,OH,nomads1971@yahoo.com,Philip,Raines,6269 Hollow Wood Cir,Loveland,OH,morethan3items|2015ny,26.88,29.1,20X22X1,3,,,,,,Better,0
+3925,05/20/15,Stacy,Head,239 Maple Valley Rd,Houston,77056,TX,stace8@hotmail.com,Stacy,Head,239 Maple Valley Rd,Houston,TX,morethan3items,37.16,40.23,12X12X1,1,,20X25X1,2,24X30X1 ,1,Better,0
+3931,05/20/15,BENJAMIN,DREHLE,15826 104TH AVE SE,YELM,,WA,ben.drehle@gmail.com,BENJAMIN,DREHLE,15826 104TH AVE SE,YELM,WA,,19.1,20.68,All dimensions is less than 30 and depth is a whole number ,1,,,,,,Better,2
+3933,05/20/15,Matthew,McKinley,1508 E Brainerd St,Pensacola,32503,FL,usmcmckinster@yahoo.com,Eric,Ehrnsberger,1009 Daniel Dr,Jacksonville,NC,,13.42,14.53,20X20X1,1,,,,,,Best,2
+3934,05/22/15,Shawn,Stolle,3011 C Houston Ave,Houston,77009,TX,spstolle@gmail.com,Shawn,Stolle,3011 C Houston Ave,Houston,TX,morethan3items,33.38,36.13,16X20X1 ,2,,20X30X1,2,,,Better,2
+3938,05/24/15,Paul,Stark,1007 S Wacouta ave,Prairie du Chjen,53821,WI,paulstark@mchsi.com,Paul,Stark,1007 S Wacouta ave,Prairie du Chjen,WI,,14.5,15.7,20X25X4,1,,,,,,Better,3
+3954,05/24/15,Thomas,Belcher,5219 FARMBROOK Dr.,Charlotte,28210,NC,tbelcher1@carolina.rr.com,Thomas,Belcher,5219 FARMBROOK Dr.,Charlotte,NC,morethan3items,58.24,63.04,20X20X4 ,4,,,,,,Best,3
+3956,05/25/15,Matthew,McKinley,1508 E Brainerd St,Pensacola,32503,FL,usmcmckinster@yahoo.com,Eric,Ehrnsberger,1009 Daniel Dr,Jacksonville,NC,,0,0,20X20X1,1,,,,,,Best,0
+3962,05/25/15,randy,massey,11908 paseo bonito way,el paso,79936,TX,rmassey@elp.rr.com,randy,massey,11908 paseo bonito way,el paso,TX,morethan3items,34.88,37.76,10X10X1,4,,,,,,Better,0
+3964,05/25/15,Gerald,Armbruster,6312 Park Ln,Nashville,37205,TN,gsarmbruster@comcast.net,Gerald,Armbruster,6312 Park Ln,Nashville,TN,,18.2,19.7,20X20X4 ,1,,,,,,Best,0
+3970,05/27/15,Paul,Walker,17 Iris Circle,Longview,,TX,paulleew@sbcglobal.net,Paul,Walker,17 Iris Circle,Longview,TX,morethan3items,31.17,33.74,20X25X2,3,,,,,,Better,0
+3971,05/29/15,Rhea,Morgan,250 Joshua Drive,York,17404,PA,rheam64@gmail.com,Rhea,Morgan,250 Joshua Drive,York,PA,morethan3items,28.38,30.72,16X25X1,3,,,,,,Best,1
+3972,06/01/15,Joel,Fortenberry,1676 Yellowstone Ave,Lewisville,75077,TX,bowtie9@hotmail.com,Joel,Fortenberry,1676 Yellowstone Ave,Lewisville,TX,morethan3items|bday2015,21.98,23.79,12X24X1,1,,14X14X1,1,20X25X1,1,Better,6
+3975,06/01/15,Blair,Weston,520 E 12 mile Rd,Royal Oak,48073,MI,blairw.weston@gmail.com,Blair,Weston,520 E 12 mile Rd,Royal Oak,MI,morethan3items,45.84,49.62,All dimensions is less than 30 and depth is a whole number ,3,,,,,,Better,0
+3986,06/05/15,Jessica,Craft,15935 Oak Mountain Dr,Houston,77095,TX,jecraft87@gmail.com,Jessica,Craft,15935 Oak Mountain Dr,Houston,TX,bday2015,8.15,8.82,20X25X1,1,,,,,,Better,0
+3997,06/05/15,Anthony,Giaquinto,18611 Kingsland Blvd,Houston,77094,TX,1tonyg@mindspring.com,Anthony,Giaquinto,18611 Kingsland Blvd,Houston,TX,morethan3items|bday2015,26.91,29.13,12X12X1,1,,20X30X1,3,,,Good,0
+4040,06/07/15,Bonnie,Zumwalt,18665 FM 1283,Mico,78056,TX,bzofht@satx.rr.com,Bonnie,Zumwalt,18665 FM 1283,Mico,TX,morethan3items,73.8,79.89,All dimensions is less than 30 and depth is a whole number ,2,,All dimensions is less than 30 and depth is a whole number ,2,,,Best,3
+4041,06/08/15,Patricia,Strom,4517 Bayou Bend,Dickinson,77539,TX,susiestrom@yahoo.com,Patricia,Strom,4517 Bayou Bend,Dickinson,TX,morethan3items,22.5,24.36,16X25X1,3,,,,,,Better,0
+4043,06/08/15,Victor,Reyes,227 Silver Ripple Dr,Rosenberg,77469,TX,vreyes84@gmail.com,Victor,Reyes,227 Silver Ripple Dr,Rosenberg,TX,,17.84,19.31,20X25X4,1,,,,,,Best,3
+4058,06/10/15,Cory,Samuel,4269 Hampton Ln,Naples,34119,FL,corysamuel@mac.com,Cory,Samuel,4269 Hampton Ln,Naples,FL,,25.36,27.45,14X14X1,1,,20X24X1 ,1,,,Better,6
+4062,06/13/15,Jerrick,Younger,407 Oxford Drive,Wylie,75098,TX,jerricky@msn.com,Jerrick,Younger,407 Oxford Drive,Wylie,TX,morethan3items,34.8,37.67,20X25X4,3,,,,,,Better,0
+4063,06/13/15,Oscar,Morales,1001 Belleview St Apt 601,Dallas,75215,TX,thevlf@hotmail.com,Oscar,Morales,1001 Belleview St Apt 601,Dallas,TX,morethan3items|bday2015,31.02,33.58,12X36X1,3,,,,,,Best,0
+4070,06/15/15,Mindy,Adams,5502 Persimmon Pass,Richmond,77407,TX,jatkinson3@gmail.com,Mindy,Adams,5502 Persimmon Pass,Richmond,TX,morethan3items,26.24,28.4,16X20X1,2,,20X30X1,2,,,Good,0
+4076,06/16/15,Jesus,Chee,406 Bellflower CT,Mansfield,76063,TX,jesuschee@sbcglobal.net,Jesus,Chee,406 Bellflower CT,Mansfield,TX,bday2015,28.54,30.89,20X25X4,2,,,,,,Best,0
+4077,06/17/15,Paul,Sweeney,13227 Edison Trace lane,Tomball,77377,TX,psds1129@gmail.com,Paul,Sweeney,13227 Edison Trace lane,Tomball,TX,morethan3items,59.2,64.08,16X25X4  ,4,,,,,,Best,1
+4079,06/18/15,Steven,Davis,45944 Corte Mislanca,Temecula,92592,CA,natdavis@cox.net,Steven,Davis,45944 Corte Mislanca,Temecula,CA,,19.54,21.15,14X14X1,1,,20X30X1,1,,,Good,3
+4083,06/18/15,ross,murray,114 Greenfield dr,trumbull,6611,CT,rmurray5@snet.net,ross,murray,114 Greenfield dr,trumbull,CT,morethan3items,33.12,35.85,20X25X4,3,,,,,,Good,0
+4096,06/22/15,William,Harlan,6104 Bascom Drive,Summerfield,27358,NC,greg.harlan@bnsflogistics.com,William,Harlan,6104 Bascom Drive,Summerfield,NC,morethan3items,56.76,61.44,14X20X1,6,,,,,,Best,0
+4098,06/22/15,jimmy,troy,4633 Willow Ln,Dallas,75244,TX,jimmytroy@sbcglobal.net,jimmy,troy,4633 Willow Ln,Dallas,TX,,31.1,33.67,All dimensions is less than 30 and depth is not a whole number ,1,,,,,,Better,6
+4105,06/22/15,Christine,Swick,6101 Phaeton Pl,Quartz Hill,93536,CA,cswick2013@gmail.com,Christine,Swick,6101 Phaeton Pl,Quartz Hill,CA,morethan3items,44.4,48.06,20X36X1  ,3,,,,,,Best,0
+4148,06/22/15,Lance,Stimpfle,2164 Matefield Rd,Jacksonville,32225,FL,coolstimps@gmail.com,Lance,Stimpfle,2164 Matefield Rd,Jacksonville,FL,morethan3items,43.68,47.28,20X20X4,3,,,,,,Best,0
+4149,06/23/15,mikial,Uk,60 grant ave,Carteret,7008,NJ,mikail@usa.com,mikial,Uk,22 gibsail drive,"bayville,",NJ,morethan3items,84.15,91.09,All dimensions is less than 30 and depth is not a whole number ,3,,,,,,Best,3
+4154,06/23/15,wesley,johnson,13533 oak hill dr,piedmont,73078,OK,wjohnson@ealesok.com,wes,johnson,8105 n. glade ave,oklahoma city,OK,morethan3items,80.34,86.97,14X24X1,6,,,,,,Best,0
+4155,06/25/15,April,Gill,9004 Sandstone Drive,College Station,77845,TX,koryandapril@aol.com,April,Gill,9004 Sandstone Drive,College Station,TX,morethan3items|bday2015,73.8,79.89,All dimensions is less than 30 and depth is a whole number ,5,,,,,,Best,3
+4158,06/25/15,Rocky,Ruggieri,936 oakmont ridge cove,collierville,38017,TN,rruggieri@fedex.com,Rocky,Ruggieri,936 oakmont ridge cove,collierville,TN,morethan3items,166.05,179.75,All dimensions is less than 30 and depth is a whole number ,9,,,,,,Best,0
+4161,06/28/15,Jason,Dworman,2240 Bliss Circle,Oceanside,92056,CA,skcoj1@hotmail.com,Jason,Dworman,2240 Bliss Circle,Oceanside,CA,morethan3items,85.62,92.68,20X25X4,6,,,,,,Best,3
+4175,06/29/15,Alma,Vasbinder,14549 Shady River Ave.,El Paso,79938,TX,alma_vasbinder@hotmail.com,Alma,Vasbinder,14549 Shady River Ave.,El Paso,TX,,29.58,32.02,12X30X1     ,1,,12X36X1,1,,,Best,0
+4179,06/29/15,Melissa,Sacher,2510 lake point ct,Pearland,77584,TX,sacher3000@yahoo.com,Melissa,Sacher,2510 lake point ct,Pearland,TX,,25.1,27.17,Any dimensions is greater than 30 and depth is a whole number ,1,,,,,,Better,3
+4188,06/29/15,David,Fye,23146 Expedition Drive,Ashburn,20148,VA,davidafye@gmail.com,David,Fye,23146 Expedition Drive,Ashburn,VA,morethan3items,30.92,33.47,12X20X1,2,,20X30X1,1,,,Best,0
+4194,06/29/15,Rick,Bost,PO Box 638,Sagle,83860,ID,rvbost@yahoo.com,Rick,Bost,PO Box 638,Sagle,ID,morethan3items,72.67,78.67,All dimensions is less than 30 and depth is a whole number ,6,,,,,,Good,0
+4195,06/29/15,Sultan,Momin,5416 Armillary Dr,Katy,77449,TX,sammomin50@gmail.com,Sultan,Momin,5416 Armillary Dr,Katy,TX,,17.84,19.31,20X25X4,1,,,,,,Best,0
+4213,06/30/15,Larry,Cooper Jr,9705 LAKE CHRISE LN,Port Richey,,FL,fl.flyer@gmail.com,Larry,Cooper Jr,9705 LAKE CHRISE LN,Port Richey,FL,morethan3items,26.37,28.55,18X24X1,3,,,,,,Better,3
+4215,06/30/15,Charles,Costello,11506 Manorhouse Ln,Houston,77082,TX,charlesvcostello@gmail.com,Charles,Costello,1805 Drew St,Houston,TX,morethan3items,28.39,30.73,12X24X1,3,,,,,,Best,0
+4249,07/03/15,Kyle,Williams,5408 Pine Tree Ave,PCB,32408,CA,kyle.wms2000@gmail.com,Kyle,Williams,5408 Pine Tree Ave,PCB,CA,,22.71,24.58,12X20X1,3,,,,,,Good,0
+4250,07/04/15,Simon,Yeo,1010 Sycamore Ave unit 207,South Pasadena,91030,CA,simoncta@hotmail.com,Simon,Yeo,1010 Sycamore Ave unit 207,South Pasadena,CA,,40.26,43.58,12X30X1,3,,,,,,Best,0
+4251,07/05/15,James,Dettrey,65 Colby Ct,Dallas,30157,GA,vpr069@comcast.net,James,Dettrey,65 Colby Ct,Dallas,GA,,35.49,38.42,16X20X1,3,,,,,,Best,0
+4252,07/05/15,Michelle,Robinson,531 Didsbury Dr. APT 301,Rock Hill,29730,SC,mich.robinson.purchases@gmail.com,Michelle,Robinson,531 Didsbury Dr. APT 301,Rock Hill,SC,,33.48,36.24,14X18X1,2,,,,,,Best,0
+4253,07/05/15,TAMURAL,FRIERSON,30685 FM 2978 APT 1231,MAGNOLIA,77354,TX,tamural.frierson@yahoo.com,TAMURAL,FRIERSON,30685 FM 2978 APT 1231,MAGNOLIA,TX,,33.48,36.24,10X30X1,2,,,,,,Best,3
+4255,07/06/15,Ryan,O'Dell,1424 Canopy Creek Way,Austin,78748,TX,ryguyswt@yahoo.com,Ryan,O'Dell,1424 Canopy Creek Way,Austin,TX,morethan3items|driving1,34.77,37.64,14X30X1,2,,18X30X1,1,,,Best,3
+4266,07/06/15,Ron,Fite,621 Cross Timbers Blvd,Sapulpa,74066,OK,rongf52@gmail.com,Ron,Fite,621 Cross Timbers Blvd,Sapulpa,OK,,51.05,55.26,12X12X1,2,,14X30X1,2,20X20X1,1,Better,3
+4272,07/06/15,Laryn,Bakker,1752 Vinton Ave,Memphis,38104,TN,larynandjanel@gmail.com,Laryn,Bakker,1752 Vinton Ave,Memphis,TN,,32.91,35.63,14X30X1,3,,,,,,Better,3
+4273,07/07/15,Pam,Thomas,1912 Mesquite St,San Marcos,78666,TX,pamthomas1912@yahoo.com,Pam,Thomas,1912 Mesquite St,San Marcos,TX,,73.95,80.05,18X30X1,3,,20X20X1,3,,,Better,6
+4281,07/07/15,Johnny,Apple,9788 Revolution Way,Frisco,75033,TX,johnnydapple@gmail.com,Johnny,Apple,9788 Revolution Way,Frisco,TX,,10.19,11.03,20X25X1,1,,,,,,Better,4
+4292,07/07/15,Shannan,MacTavish,205 Rockmoor Dr,Georgetown,78628,TX,deer4buck@yahoo.com,Shannan,MacTavish,205 Rockmoor Dr,Georgetown,TX,morethan3items,56.79,61.47,16X25X1,6,,,,,,Best,0
+4296,07/07/15,Bart,Long,601 N Waterview Dr.,Richardson,75080,TX,bartlong71@gmail.com,Bart,Long,601 N Waterview Dr.,Richardson,TX,morethan3items,85.64,92.7,20X25X4,6,,,,,,Best,3
+4358,07/07/15,Nathan,McDonough,6 W 17th Street,Chattanooga,37408,TN,n8.mcdonough@gmail.com,Nathan,McDonough,6 W 17th Street,Chattanooga,TN,,8.11,8.78,12X30X1,1,,,,,,Good,3
+4359,07/07/15,Denise,Dixon,11634 Palmetto Pine St.,Riverview,33569,FL,lewisd64@yahoo.com,Denise,Dixon,11634 Palmetto Pine St.,Riverview,FL,morethan3items,41.57,45,16X20X2 ,4,,,,,,Better,0
+4360,07/08/15,Judd,Maranto,186 Stuart ave,Shreveport,71105,LA,jmaranto2002@yahoo.com,Judd,Maranto,7538 university dr,Shreveport,LA,morethan3items,19.97,21.62,18X18X1   ,3,,,,,,Good,3
+4398,07/08/15,Jay,Lambert,4639 Mywerwood Lane,Dallas,75244,TX,txlambert@aol.com,Jay,Lambert,4639 Mywerwood Lane,Dallas,TX,morethan3items,41.57,45,20X24X2    ,4,,,,,,Better,0
+4405,07/09/15,Stewart,Nixon,10126 Shady River Dr,Houston,77042,TX,stewartallannixoni@yahoo.com,Stewart,Nixon,714 E 1st St,Fort Worth,TX,morethan3items,19.7,21.33,20X25X1,3,,,,,,Good,6
+4407,07/09/15,Cary,Roach,5478 Lonesome Dove,Robstown,78380,TX,roach@cleangulfassoc.com,CGA/Cary,Roach,4150 FM 1069,Aransas Pass,TX,morethan3items,95.76,103.66,24X30X1 ,6,,,,,,Best,3
+4412,07/10/15,Chanelle,Law,10700 Fondren Rd Apt 602,Houston,77096,TX,cllaw.2000@gmail.com,Chanelle,Law,10700 Fondren Rd Apt 602,Houston,TX,,16.74,18.12,10X30X1,1,,,,,,Best,3
+4414,07/10/15,Luc,Tomasino,2447 East 25th Place,Tulsa,74114,OK,luctomasino@yahoo.com,Luc,Tomasino,2447 East 25th Place,Tulsa,OK,morethan3items,40.18,43.49,16X24X1,3,,,,,,Best,0
+4415,07/10/15,Kate,McWilliams,4772 Farris Road,Denton,76208,TX,kate_mcwilliams@yahoo.com,Kate,McWilliams,4772 Farris Road,Denton,TX,morethan3items,19.82,21.45,12X20X1,1,,20X20X1,2,,,Good,0
+4425,07/11/15,Albert,Suarez,4406 Zion Road,Garland,75043,TX,gugosuarez@tx.rr.com,Albert,Suarez,4406 Zion Road,Garland,TX,morethan3items,22.48,24.34,12X20X1,3,,,,,,Better,6
+4430,07/11/15,Carrie,Ezell,27246 Rio Pass,boerne,78015,TX,carrieandrandy26@gmail.com,Carrie,Ezell,27246 Rio Pass,boerne,TX,morethan3items,25.7,27.82,18X20X1   ,3,,,,,,Good,3
+4432,07/11/15,BATTERIES PLUS,695,1381 W.SUNSET RD SUITE 110,LAS VEGAS,89014,NV,bp695@batteriesplus.net,BATTERIES PLUS,695,1381 W.SUNSET RD SUITE 110,LAS VEGAS,NV,morethan3items,57.28,62.01,20X22X1,4,,,,,,Best,3
+4434,07/11/15,Sharon,Stephens,18511 Egret bay blvd #402,houston,77058,TX,sksilver01@gmail.com,Sharon,Stephens,18511 Egret bay blvd #402,houston,TX,,16.74,18.12,16X16X1,1,,,,,,Best,0
+4436,07/11/15,Harish,Patel,305 CORRAL CT,SOUTHLAKE,76092,TX,patelhm2316@yahoo.com,Harish,Patel,305 CORRAL CT,SOUTHLAKE,TX,morethan3items,43.34,46.92,16X25X4,1,,20X25X4,2,,,Best,0
+4437,07/11/15,Manuel,Villarreal,1005 Markham LN #B,austin,78753,TX,maxdisc78749@yahoo.com,Manuel,Villarreal,1005 Markham LN #B,austin,TX,morethan3items,34.27,37.1,10X30X1,3,,,,,,Better,0
+4439,07/11/15,Shaun,Trude,405 Poplar St,Millerstown,17062,PA,sctrude@centurylink.net,Shaun,Trude,405 Poplar St,Millerstown,PA,morethan3items,34.8,37.67,20X25X4,3,,,,,,Better,0
+4440,07/12/15,Juan,Buitron,8019 Latigo St.,San Antonio,78227,TX,penskejb@sbcglobal.net,Juan,Buitron,8019 Latigo St.,San Antonio,TX,,16.66,18.03,16X25X2   ,1,,,,,,Best,3
+4442,07/12/15,John T.,Mills,820 Knoll Manor Court,Cedar Hill,75104,TX,jtmarch000@gmail.com,John T.,Mills,820 Knoll Manor Court,Cedar Hill,TX,morethan3items,130.03,140.76,16X25X4,3,,20X25X4,6,,,Best,0
+4446,07/13/15,Mary,Blanchard,11018 Wickersham,Houston,77042,TX,michelleblanc46@msn.com,Mary,Blanchard,11018 Wickersham,Houston,TX,morethan3items,23.69,25.64,18X18X1   ,3,,,,,,Better,3
+4451,07/13/15,Doug,Schwark,293 Summerset Dr,Clyde,28721,NC,dougschwark@gmail.com,Doug,Schwark,293 Summerset Dr,Clyde,NC,morethan3items,47.2,51.09,16X25X4,2,,20X25X4,2,,,Better,0
+4456,07/13/15,Carl,Sandford,P O Box 141244,Irving,75014,TX,cbsandford-mobile@hotmail.com,Carl,Sandford,1733 Fountain Pass Drive,Colleyville,TX,morethan3items,64.15,69.44,16X25X1,3,,20X25X1,3,,,Best,3
+4458,07/13/15,Rosa E,Basoco,PO Box 240715,San Antonio,78224,TX,rosebud243@sbcglobal.net,Rosa E,Basoco,PO Box 240715,San Antonio,TX,morethan3items,31.9,34.53,25X25X1  ,3,,,,,,Better,3
+4460,07/13/15,Mohammed,Siddiqi,745 Hummerside Ct,Commerce,48382,MI,rafisiddiqi@hotmail.com,Mohammed,Siddiqi,745 Hummerside Ct,Commerce,MI,,15,16.24,16X25X4,1,,,,,,Better,0
+4465,07/14/15,Ryan,Mahoney,459 Bristol St,Roanoke,76262,TX,rmahoney7@gmail.com,Ryan,Mahoney,459 Bristol St,Roanoke,TX,morethan3items,40.11,43.42,14X14X1,1,,20X25X1,1,20X36X1,1,Best,0
+4471,07/14/15,kerney,thomas,8606 briar oaks ln,baytown,77523,TX,kerneythomasiii@gmail.com,kerney,thomas,8606 briar oaks ln,baytown,TX,,37,40.05,20X36X1,2,,,,,,Best,0
+4472,07/14/15,John,Jernigan,2996 Gerona Dr W,Jacksonville,32246,FL,glazzman@bellsouth.net,John,Jernigan,2996 Gerona Dr W,Jacksonville,FL,,14.5,15.7,20X25X4,1,,,,,,Better,0
+4474,07/15/15,Ananda,Amarasekara,17426 Ivy Stream Drive,Houston,77095,TX,amarasekara@sbcglobal.net,Ananda,Amarasekara,17426 Ivy Stream Drive,Houston,TX,,24,25.98,16X25X4,2,,,,,,Good,0
+4479,07/15/15,Tracy,Cress,730 Poplar Springs Rd.,Hoschton,30548,GA,tracy_cress@yahoo.com,Tracy,Cress,730 Poplar Springs Rd.,Hoschton,GA,morethan3items,48.91,52.95,20X25X1,6,,,,,,Better,3
+4480,07/15/15,Mohammed,Siddiqi,745 Hummerside Ct,Commerce,48382,MI,rafisiddiqi@hotmail.com,Mohammed,Siddiqi,745 Hummerside Ct,Commerce,MI,,15,16.24,16X25X4,1,,,,,,Better,0
+4481,07/15/15,julie,yang,18535 Rembrandt Ter,Dallas,75287,TX,d8e9e4ef@opayq.com,julie,yang,18535 Rembrandt Ter,Dallas,TX,morethan3items,37.86,40.98,16X25X1,4,,,,,,Best,3
+4491,07/15/15,Tze Ying,Li,3009 Monticello Pines Ln,League City,77573,TX,ltylowell@yahoo.com.hk,Tze Ying,Li,3009 Monticello Pines Ln,League City,TX,morethan3items,33.6,36.37,25X32X1,3,,,,,,Good,3
+4492,07/15/15,Ryan,deeds,2585 stonebbriar de,clarksville,37043,TN,ryancdeeds@gmail.com,Ryan,deeds,2585 stonebbriar de,clarksville,TN,morethan3items,30.85,33.39,16X20X1,2,,20X25X1,1,,,Best,0
+4496,07/15/15,Mae,Williams,40 lonesome dove cove,Eads,38028,TN,mwilli32@comcast.net,Mae,Williams,40 lonesome dove cove,Eads,TN,morethan3items,66.24,71.7,20X25X4,6,,,,,,Good,0
+4498,07/15/15,Larry,Legg,210 B South Cedar Ridge Suite 100,Duncanville,75116,TX,larry@infinite-care.com,Larry,Legg,210 B South Cedar Ridge Suite 100,Duncanville,TX,morethan3items,43.68,47.28,20X20X4,3,,,,,,Best,3
+4500,07/16/15,Dodd,Burum,608 Waterchase Dr,Ft Worth,76120,TX,doddburum@gmail.com,Dodd,Burum,608 Waterchase Dr,Ft Worth,TX,,28.44,30.79,20X20X4,1,,20X25X4,1,,,Better,3
+4504,07/16/15,Erica,Reyes,17222 Huffmeister rd suite A,cypress,77429,TX,ereyes@proptester.com,Erica,Reyes,17222 Huffmeister rd suite A,cypress,TX,morethan3items,191.47,207.27,One of Width and length greater then 30 and depth less than 2,6,,Width and length are less then 30 and depth less than 2,6,,,Good,0
+4509,07/16/15,william,mccrumb,4762 Terquay Ct,Suwanee,,GA,mccrumb@me.com,william,mccrumb,4762 Terquay Ct,Suwanee,GA,morethan3items,75.71,81.96,16X25X1,8,,,,,,Best,3
+4511,07/16/15,Ronnie,Shaw,75 Market Place,Montgomery,36117,AL,ronnie@theshawagency.com,Ronnie,Shaw,75 Market Place,Montgomery,AL,,17.58,19.03,20X30X1,1,,25X25X1  ,1,,,Good,3
+4518,07/16/15,Sharon,ODell,306 S Mustang Ave.,Cedar Park,78613,TX,sharin1nme@gmail.com,Sharon,ODell,306 S Mustang Ave.,Cedar Park,TX,morethan3items|bday2015,35.52,38.45,16X25X4,3,,,,,,Best,3
+4522,07/17/15,Marabeth,Russell,305 CR 4847,Winnsboro,75494,TX,marabeth@peoplescom.net,Marabeth,Russell,305 CR 4847,Winnsboro,TX,morethan3items,47.37,51.28,12X24X1,6,,,,,,Better,0
+4524,07/17/15,Peggy,Stoll,10601 Parkfield Drive,Austin,78758,TX,peggy.stoll@gmail.com,Peggy,Stoll,10601 Parkfield Drive,Austin,TX,morethan3items,39.98,43.28,16X25X2   ,3,,,,,,Best,1
+4528,07/17/15,Ryan,Becker,220 e 60th st,Savannah,31405,GA,ryan_becker76@yahoo.com,Ryan,Becker,220 e 60th st,Savannah,GA,morethan3items,62.24,67.37,18X24X1,5,,,,,,Best,0
+4529,07/17/15,Rachel,Pennell,1608 Lilac Ln,Venice,34293,FL,rachelwpennell@hotmail.com,Rachel,Pennell,1608 Lilac Ln,Venice,FL,,10.37,11.23,20X20X1,1,,,,,,Better,0
+4531,07/17/15,Johnnie,Broussard,300 East Circuit Dr,Beaumont,77706,TX,jbroussard@gt.rr.com,Johnnie,Broussard,300 East Circuit Dr,Beaumont,TX,morethan3items,46.4,50.23,20X25X4,4,,,,,,Better,0
+4534,07/18/15,MARLENE,HIGHTOWER,P.O. BOX 770,Levelland,79336,TX,cete@nts-online.net,MARLENE,HIGHTOWER,1814 CACTUS DRIVE,Levelland,TX,morethan3items,72.67,78.67,Width and length are less then 30 and depth less than 2,6,,,,,,Good,0
+4535,07/19/15,Jeffrey,McKee,710 Park Shore Drive,Naples,34103,FL,jeff.mckee@hotmail.com,Jeffrey,McKee,710 Park Shore Drive,Naples,FL,morethan3items,34.8,37.67,20X25X4,3,,,,,,Better,0
+4537,07/19/15,RENE,VALLEE,100 PUNTA VISTA DR,ST PETE BEACH,33706,FL,rvallee@batstaxi.com,RENE,VALLEE,100 PUNTA VISTA DR,ST PETE BEACH,FL,morethan3items,34.27,37.1,14X18X1,3,,,,,,Better,0
+4539,07/19/15,Thomas,Harper,7533 Grenade Court,Corpus Chtisti,78414,TX,tmharper@mygrande.net,Thomas,Harper,7533 Grenade Court,Corpus Chtisti,TX,morethan3items,80.35,86.98,16X24X1,6,,,,,,Best,0
+4541,07/19/15,Cristian,Prundeanu,927 Indian Run Dr,Pflugerville,78660,TX,cprundeanu@athos.ro,Cristian,Prundeanu,927 Indian Run Dr,Pflugerville,TX,,30.33,32.83,16X25X1,1,,20X36X1,1,,,Best,0
+4546,07/19/15,Thomas,Bradford,19911 tidy tips ln,Spring,77379,TX,thomas_bradford@hines.com,Thomas,Bradford,19911 tidy tips ln,Spring,TX,morethan3items,57.09,61.8,20X25X4,4,,,,,,Best,0
+4548,07/19/15,Debra,Scott,15110 Quail Rock Cir,Houston,77095,TX,scottdebra@me.com,Debra,Scott,15110 Quail Rock Cir,Houston,TX,,35.68,38.62,20X25X4,2,,,,,,Best,0
+4549,07/19/15,Grant,Trudeau,5200 Keystone Cir,Edmond,73025,OK,granttrudeau@gmail.com,Grant,Trudeau,5200 Keystone Cir,Edmond,OK,morethan3items,47.13,51.02,12X36X1,6,,,,,,Good,0
+4550,07/19/15,Ethel,Anderson,414 Elfes field lane,Charleston,29492,SC,ethcas12@yahoo.com,Ethel,Anderson,414 Elfes field lane,Charleston,SC,morethan3items,71.95,77.89,20X30X1,6,,,,,,Best,8
+4552,07/20/15,Jim,Wallace,1914 W McKinney Unit B,Houston,77019,TX,eagle151@att.net,Jim,Wallace,1914 W McKinney Unit B,Houston,TX,morethan3items,24.9,26.95,12X24X1,2,,16X25X1,2,,,Good,0
+4556,07/20/15,Johanna,Eckler,2200 Panther Trl Apt 303,Austin,78704,TX,johanna.eckler@gmail.com,Johanna,Eckler,2200 Panther Trl Apt 303,Austin,TX,,16.74,18.12,14X18X1,1,,,,,,Best,3
+4571,07/20/15,Johnny,Perez,1706 Sheldourne Dr,Austin,78752,TX,perez-mary18@yahoo.com,Johnny,Perez,1706 Shelbourne,Austin,TX,morethan3items,72.67,78.67,Width and length are less then 30 and depth less than 2,6,,,,,,Good,0
+4573,07/20/15,Dan,Spake,1418 Stone Gate Drive,Shelby,28150,NC,danspake@hotmail.com,David,Spake,1110 North Post Road,Shelby,NC,morethan3items,99.56,107.77,20X20X1,12,,,,,,Better,3
+4575,07/20/15,Mary,Dees,3919 Essex Lane Apt 141,Houston,77027,TX,kay_dees89@msn.com,J. Gordon,Dees,440 Louisiana St Suite 800,Houston,TX,morethan3items,40.18,43.49,10X30X1,3,,,,,,Best,0
+4576,07/20/15,Yenny,Logan,P.O Box 2097,Muscle Shoals,35662,AL,yennyvmc@yahoo.com,Yenny,Logan,402 Madison Ave.,Muscle Shoals,AL,morethan3items,47.88,51.83,25X32X1,3,,,,,,Best,3
+4578,07/21/15,brian,natvig,1010 barnford mill rd,wake forest,27587,NC,blnatvig@gmail.com,brian,natvig,809 saratoga dr,southlake,TX,morethan3items,33.12,35.85,20X25X4,3,,,,,,Good,3
+4579,07/21/15,sam,escamilla,1990 W 1150 N,Lehi,76301,UT,sam@turnkeystorage.com,sam,escamilla,1081 Lamar St,Wichita Falls,TX,morethan3items,146.73,158.84,20X25X1,18,,,,,,Better,3
+4581,07/21/15,Matthew,Archer,3404 Winding Oak Ln E,Burleson,76028,TX,four.archers@yahoo.com,Matthew,Archer,3404 Winding Oak Ln E,Burleson,TX,morethan3items,31.58,34.19,12X20X1,1,,14X20X1,1,20X20X1,2,Better,8
+4593,07/21/15,Richard,Coons,3610 Puesta de Sol,San Antonio,78261,TX,ric.coons@parallon.com,Richard,Coons,3610 Puesta de Sol,San Antonio,TX,morethan3items,57.4,62.14,20X22X1,6,,,,,,Good,0
+4595,07/22/15,Michael,diaz,124 rosewood dr,metairie,70005,LA,mgdiazot@cox.net,Michael,diaz,124 rosewood dr,metairie,LA,morethan3items,107.28,116.13,20X36X1,10,,,,,,Good,3
+4602,07/22/15,Dinesh,Parikh,11720 Taylorcrest Rd,Houston,770245131,TX,dineshparikh110@gmail.com,Dinesh,Parikh,11720 Taylorcrest Rd,Houston,TX,morethan3items,44.4,48.06,16X25X4,3,,,,,,Best,0
+4605,07/22/15,J Pat,Suggs,335 College Hill Drive PO Box 85,Salado,76571,TX,patsuggs2012@gmail.com,J Pat,Suggs,335 College Hill Drive PO Box 85,Salado,TX,morethan3items,24.45,26.47,20X25X1,3,,,,,,Better,3
+4615,07/22/15,Shree,Mulay,350 W 42 Street Unit 41g,New York,,NY,shreemulay@gmail.com,Shree,Mulay,350 W 42 Street Unit 41g,New York,NY,morethan3items,32.32,34.99,14X20X1,2,,16X30X1  ,1,,,Best,0
+4619,07/22/15,Matt,Fletcher,106 Grissom trail,Hotsprings,71913,AR,ashkicker709@yahoo.com,Matt,Fletcher,106 Grissom trail,Hotsprings,AR,,17.84,19.31,20X25X4,1,,,,,,Best,0
+4620,07/22/15,Linda,Jones,3025 Quail Springs Road Unit N7,Corpus Christi,78414,TX,hjones@wrstarkey.com,Linda,Jones,3025 Quail Springs Road Unit N7,Corpus Christi,TX,morethan3items,39.98,43.28,16X24X2  ,3,,,,,,Best,0
+4622,07/22/15,steve,sturman,1720 SUMMIT DRIVE,JOSHUA,76058,TX,stevelisasturman@hotmail.com,steve,sturman,1720 SUMMIT DRIVE,JOSHUA,TX,,27.88,30.18,20X20X4,2,,,,,,Better,2
+4623,07/23/15,John,Chaney,1025 Mockingbird Hill Ct,Murphy,75094,TX,payments@chaney.biz,John,Chaney,1025 Mockingbird Hill Ct,Murphy,TX,morethan3items,88.8,96.13,16X25X4,6,,,,,,Best,2
+4624,07/23/15,John,Chaney,1025 Mockingbird Hill Ct,Murphy,75094,TX,payments@chaney.biz,John,Chaney,1025 Mockingbird Hill Ct,Murphy,TX,morethan3items,256.9,278.09,20X25X4,18,,,,,,Best,0
+4625,07/23/15,Jason,Bowman,2709 SE Otis Corley Dr,Bentonville,72712,AR,jbowman@ameritaiv.com,Jason,Bowman,2709 SE Otis Corley Dr,Bentonville,AR,morethan3items,155.19,167.99,One of Width and length greater then 30 and depth less than 2,6,,,,,,Better,3
+4626,07/23/15,Aaron,Blevins,1288 Greenley Ave,Groveland,34736,FL,atdblevins@gmail.com,Aaron,Blevins,1288 Greenley Ave,Groveland,FL,,14.01,15.16,20X22X1,1,,,,,,Better,0
+4628,07/23/15,Amber,Dunford,1108 Londonwood St,Brandon,33510,FL,nurseamber616@gmail.com,Amber,Dunford,1108 Londonwood St,Brandon,FL,,18.28,19.79,12X12X1,1,,14X24X1,1,,,Good,3
+4632,07/23/15,JORDAN,LOPEZ,70 E BRIAR HOLLOW LN APT 445,HOUSTON,77027,TX,jslopez915@gmail.com,JORDAN,LOPEZ,70 E BRIAR HOLLOW LN APT 445,HOUSTON,TX,morethan3items,40.18,43.49,14X18X1,3,,,,,,Best,7
+4637,07/23/15,Wetzel Engineering,Inc,821 Grand Avenue Parkway STE 410,Pflugerville,78660,TX,nancy.dinh@wetzelengineering.com,Nancy,Dinh,821 Grand Avenue Parkway STE 410,Pflugerville,TX,morethan3items,82.96,89.8,20X20X1,10,,,,,,Better,3
+4639,07/23/15,Connie,Callison,4817 Royal Dornoch Cir,Bradenton,34211,FL,cpcjlc@mindspring.com,Connie,Callison,4817 Royal Dornoch Cir,Bradenton,FL,morethan3items,33.12,35.85,20X25X4,3,,,,,,Good,0
+4640,07/23/15,Edward,Conley,92 Deanna Green Ln,Midway,32343,FL,zelgodis14@gmail.com,Edward,Conley,92 Deanna Green Ln,Midway,FL,,23.6,25.55,20X20X4,2,,,,,,Good,0
+4642,07/24/15,Kelly,Mchugh,10700 world trade blvd ste 112,Raleigh,27617,NC,kpmchugh1@icloud.com,Kelly,Mchugh,10700 world trade blvd ste 112,Raleigh,NC,morethan3items,136.99,148.29,16X20X2 ,6,,16X25X2   ,12,,,Good,0
+4648,07/24/15,JAMES,ARCHER,192 FAIRVIEW CT,Decatur,76234,TX,jadee4449@embarqmail.com,JAMES,ARCHER,192 FAIRVIEW CT,Decatur,TX,morethan3items,88.8,96.13,16X25X4,6,,,,,,Best,3
+4649,07/24/15,Corey,Stone,2717 East 93rd Street Apt. 401,Tulsa,74137,OK,tall2u300@gmail.com,Corey,Stone,2717 East 93rd Street Apt. 401,Tulsa,OK,,27.26,29.51,18X18X1,2,,,,,,Best,0
+4650,07/24/15,Heather,Palczynski,127 FairPlay Dr,Hot Springs,71901,AR,rnhdb78@aol.com,Heather,Palczynski,127 FairPlay Dr,Hot Springs,AR,morethan3items,18.17,19.67,14X20X1,3,,,,,,Good,3
+4655,07/24/15,Rebecca,Boudreaux,41128 Lakeway Cove,Gonzales,70737,LA,rebeccarainey1@gmail.com,Rebecca,Boudreaux,41128 Lakeway Cove,Gonzales,LA,morethan3items,33.12,35.85,20X25X4,3,,,,,,Good,6
+4656,07/25/15,Tim,Hurst,404 W 30th,Austin,78705,TX,movineasy.mail@gmai.com,Tim,Hurst,404 W 30th,Austin,TX,morethan3items,191.35,207.14,10X24X1,4,,12X30X1,9,20X25X2,3,Best,0
